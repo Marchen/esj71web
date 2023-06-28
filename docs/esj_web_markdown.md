@@ -106,7 +106,7 @@ Visual Studio Codeでは編集中に画面上部のPreviewボタン![ボタン�
 ```
 
 ＜例＞
-![ESJ70ロゴ](https://esj-meeting.net/wp-content/uploads/2022/08/ESJ70logo.png)
+![ESJ71ロゴ](https://esj-meeting.net/wp-content/uploads/2023/06/esj71_logo.png)
 
 注：装飾的な役割で画像を使う場合には画像の説明は不要です。
 
