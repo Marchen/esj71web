@@ -14,3 +14,7 @@ The 71<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 
 The format will be online (16–17 March) and hybrid (18–21 March).
 Upcoming information will be shown on this web site.
+
+## What's new
+
+* 2023-07-03: ESJ71 website is published.
