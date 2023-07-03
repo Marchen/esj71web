@@ -7,7 +7,7 @@ menu: Home
 
 ## Meeting information
 
-The 71<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
+The 71<sup>st</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
 **Dates: 16th March 2024 to 21st March 2024**
 **Venue: Yokohama National University and Online**
