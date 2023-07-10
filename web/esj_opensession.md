@@ -2,6 +2,7 @@
 url: https://esj-meeting.net/esj_opensession/
 menu: 開催案内 > 公募セッション
 toc: false
+multi_language: false
 ---
 
 # ESJ71新企画: 公募セッションの提案募集

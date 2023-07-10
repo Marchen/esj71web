@@ -1,6 +1,7 @@
 ---
 url: https://esj-meeting.net/home_ja/
 menu: ホーム
+multi_language: true
 ---
 
 # ホーム

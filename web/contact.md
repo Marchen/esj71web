@@ -2,6 +2,7 @@
 url: https://esj-meeting.net/contact/
 menu: Contact
 toc: false
+multi_language: true
 ---
 
 # Contact

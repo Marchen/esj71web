@@ -1,6 +1,7 @@
 ---
 url: https://esj-meeting.net/home/
 menu: Home
+multi_language: true
 ---
 
 # Home
