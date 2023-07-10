@@ -2,6 +2,7 @@
 url: https://edit.esj-meeting.net/contact_ja/
 menu: お問い合わせ
 toc: false
+multi_language: true
 ---
 
 # お問い合わせ
