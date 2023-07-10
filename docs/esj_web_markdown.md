@@ -105,6 +105,7 @@ Visual Studio Codeでは編集中に画面上部のPreviewボタン![ボタン�
 
 ```markdown
 ![画像の説明](画像のパスやファイル名)
+![ESJ71ロゴ](https://esj-meeting.net/wp-content/uploads/2023/06/esj71_logo.png)
 ```
 
 ＜例＞
