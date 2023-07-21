@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/er_symposium/
-menu: 大会案内 > ERシンポジウム
+menu: 大会案内 > ER シンポジウム
 toc: false
 multi_language: false
 ---
