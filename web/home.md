@@ -19,4 +19,5 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-07-25: Added the [call for proposals for Ecological Research Symposium](er_symposium) (deadline 2023-08-31 23:59 JST).
 * 2023-07-03: ESJ71 website is published.

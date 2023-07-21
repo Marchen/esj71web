@@ -1,5 +1,5 @@
 ---
-url: https://esj-meeting.net/meeting_information/
+url: https://esj-meeting.net/meeting_information_ja/
 menu: 大会案内
 toc: false
 multi_language: true

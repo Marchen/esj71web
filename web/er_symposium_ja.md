@@ -1,8 +1,8 @@
 ---
-url: https://esj-meeting.net/er_symposium/
+url: https://esj-meeting.net/er_symposium_ja/
 menu: 大会案内 > ER シンポジウム
 toc: false
-multi_language: false
+multi_language: true
 ---
 
 # ER 招待講演を希望するシンポジウム（ER シンポジウム）の募集要項
