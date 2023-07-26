@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/er_symposium/
-menu: Meeting information > ER Symposium
+menu: Meeting Information > ER Symposium
 toc: false
 multi_language: true
 ---
