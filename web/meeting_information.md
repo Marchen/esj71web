@@ -5,6 +5,6 @@ toc: false
 multi_language: true
 ---
 
-# Meeting information
+# Meeting Information
 
 * [Ecological Research Symposium](er_symposium)

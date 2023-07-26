@@ -7,7 +7,7 @@ multi_language: true
 
 # Home
 
-## Meeting information
+## Meeting Information
 
 The 71<sup>st</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
