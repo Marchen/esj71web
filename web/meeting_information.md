@@ -7,4 +7,5 @@ multi_language: true
 
 # Meeting Information
 
+* [Basic Meeting Information](basic_information)
 * [Ecological Research Symposium](er_symposium)
