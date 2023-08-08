@@ -57,10 +57,12 @@ For detailed information on how to register, please see the "Registration and Su
 
 ### Registration
 
-|                                             | Regular participants and students                                                                                                     | Audience member for workshops only | Undergraduate students who will not give presentations<br>Junior and high school students |
-|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------------------------------------|
-| Registration<br>Payment of registration fee | 2nd Oct. 2023<br> – 16th Mar. 2024                                                                                                    | 2nd Oct. 2023<br>– 20th Feb. 2024  | 1st Mar. 2024<br>– 16th Mar. 2024                                                         |
-| Registration fee                            | Early bird discount price<br>Regular: 13,000 JPY<br>Students: 6,000 JPY<br>Normal price<br>Regular: 15,000 JPY<br>Students: 7,000 JPY | 1,000 JPY                          | Free                                                                                      |
+|                                             | Regular participants and students                                                                                                     | Audience member for workshops only※ | Undergraduate students who will not give presentations<br>Junior and high school students |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|:------------------------------------------------------------------------------------------|
+| Registration<br>Payment of registration fee | 2nd Oct. 2023<br> – 16th Mar. 2024                                                                                                    | 2nd Oct. 2023<br>– 20th Feb. 2024    | 1st Mar. 2024<br>– 16th Mar. 2024                                                         |
+| Registration fee                            | Early bird discount price<br>Regular: 13,000 JPY<br>Students: 6,000 JPY<br>Normal price<br>Regular: 15,000 JPY<br>Students: 7,000 JPY | 1,000 JPY                            | Free                                                                                      |
+
+※ Online only, cannot participate in the onsite venue.
 
 ### Deadlines for new (and renewed) membership registration, and payment of meeting registration fee
 
