@@ -30,6 +30,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-09-09: Added [Session proposal guidelines](session_proposal_guidelines).
 * 2023-08-07: [Basic Meeting Information](basic_information) is now available.
 * 2023-08-07: Added schedule of the meeting on this page.
 * 2023-07-25: Added the [call for proposals for Ecological Research Symposium](er_symposium) (deadline 2023-08-31 23:59 JST).

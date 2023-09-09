@@ -30,6 +30,7 @@ multi_language: true
 
 ## 更新情報
 
+* 2023-09-09: [各種集会の企画](session_proposal_guidelines_ja)を公開しました。
 * 2023-08-07: [大会基本情報](basic_information_ja)を公開しました。
 * 2023-08-07: このページに日程表を追加しました。
 * 2023-07-13: [ER シンポジウム](er_symposium_ja)の募集を開始しました（締め切り：2023-08-31）。
