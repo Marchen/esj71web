@@ -7,6 +7,8 @@ multi_language: true
 
 # Session Proposal Guidelines
 
+## OVERVIEW
+
 * There are four types of sessions: Symposium, Workshop, Forum, and ER-Symposium.
 * Co-organizers and speakers are required to register on the ESJ71 registration site. If you are a co-organizer or a speaker, please log into the ESJ71 registration site using your membership number (or use your login ID if you are a non-member speaker), and register your information (i.e., e-mail address, affiliation, etc.) as soon as possible.
 * Organizers must apply for a session proposal using the member number registered on the ESJ71 registration site. The member number can also be found by using the member search function on My Page.

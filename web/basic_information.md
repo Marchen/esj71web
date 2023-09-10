@@ -7,13 +7,13 @@ multi_language: true
 
 # Basic Meeting Information
 
-## 1. OVERVIEW
+## OVERVIEW
 
 The 71th Annual Meeting of the Ecological Society of Japan (ESJ71)
 Dates: March 16–21, 2024
 Venues: Online / Yokohama National University
 
-## 2. SCHEDULE
+## SCHEDULE
 
 |                                                        | 16 Mar<br>(Sat) | 17 Mar<br>(Sun) | 18 Mar<br>(Mon) | 19 Mar<br>(Tue) | 20 Mar<br>(Wed) | 21 Mar<br>(Thu) |
 |--------------------------------------------------------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
@@ -32,7 +32,7 @@ Venues: Online / Yokohama National University
 
 ※1 Poster presenters (including high school students posters) may, if they wish, display their posters at the on-site venue on March 19 and 20.
 
-## 3. FORMAT OF THE MEETING
+## FORMAT OF THE MEETING
 
 * The meeting will be held "online" (March 16 and 17) and "hybrid" (onsite + online, March 18–21).
 * We will use [ONLINE CONF](https://agri-smile.com/service/online-conf/) as the online platform. Participants will be able to view the schedule and the abstracts for each session on the platform. It will also be possible to access the sessions, oral presentations, and poster presentations.
@@ -41,7 +41,7 @@ Venues: Online / Yokohama National University
 * Presentations on March 18-21 will be given at the venue (Yokohama National University) and simultaneously streamed in real time via zoom. Those who have made online poster presentations (including high school students' posters) may also display their posters at the venue on March 19 and 20, if they wish.
 * All talks, with the exception of “Oral presentations”, will be recorded and made accessible to participants on the platform until about one month after the ESJ71 meeting (on-demand streaming). The availability of the recordings will be confirmed to the presenter at registration.
 
-## 4. FACILITATING INTERACTION AMONG PARTICIPANTS
+## FACILITATING INTERACTION AMONG PARTICIPANTS
 
 ### Online exchange meeting
 
@@ -51,7 +51,7 @@ We will be organizing online exchange meetings using Spatial Chat. After each se
 
 The banquet of ESJ71 will be held in an online format using SpatialChat. It will be open to all ESJ71 participants (except high school students and the audience members using a workshop ticket). The banquet will be free of charge. No registration is required. Details will be announced on the official website and the platform of ESJ71.
 
-## 5. DEADLINES AND FEES
+## DEADLINES AND FEES
 
 For detailed information on how to register, please see the "Registration and Submission" page.
 
@@ -90,13 +90,13 @@ For detailed information on how to register, please see the "Registration and Su
 * Please note that we will not respond to any inquiries between 5:00 p.m. (JST) of each due date and 10:00 a.m. (JST) of the next day. Your early confirmation of the registration procedure would be appreciated.
 * No additions or corrections will be accepted after the due dates (we will not make corrections using errata).
 
-## 6. PROMOTING DIVERSITY
+## PROMOTING DIVERSITY
 
 ESJ71 respects diversity of participants. We expect ambitious proposals from researchers of diverse positions, genders, and nationalities. Also, organizers of symposia and workshops are requested to consider the speakers' diversity when choosing the speakers.
 
 Based on the "Act for Eliminating Discrimination Against People with Disabilities", consideration will be given to participants requiring assistance. Please contact us from the inquiry page on the ESJ71 official website. If you would like to give a presentation, please contact us by 31st October 2023, or as soon as possible.
 
-## 7. OTHER INFORMATION
+## OTHER INFORMATION
 
 ### Programs and abstract books
 
