@@ -16,7 +16,7 @@ Venues: Online / Yokohama National University
 ## SCHEDULE
 
 |                                                        | 16 Mar<br>(Sat) | 17 Mar<br>(Sun) | 18 Mar<br>(Mon) | 19 Mar<br>(Tue) | 20 Mar<br>(Wed) | 21 Mar<br>(Thu) |
-|--------------------------------------------------------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| ------------------------------------------------------ | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Format                                                 |     Online      |     Online      |     Hybrid      |     Hybrid      |     Hybrid      |     Hybrid      |
 | General meeting                                        |                 |                 |        ○       |                 |                 |                 |
 | Award lectures                                         |                 |                 |        ○       |                 |                 |                 |
@@ -77,11 +77,11 @@ For detailed information on how to register, please see the "Registration and Su
 
 ### Deadlines related to organizers and presenters
 
-|                                                                                                                                                                            | Deadline                                   |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|
-| Proposal of open-call sessions                                                                                                                                             | Monday 31st Jul. 2023 23:59 (JST)          |
-| Proposal of Forum                                                                                                                                                          | Friday 15th Sep. 2023 23:59 (JST)          |
-| Proposal of symposia and workshops <br>General presentations<br>Poster presentations by high school students                                                               | Tuesday 31st Oct. 2023 23:59 (JST)         |
+|                                                                                                                                                                            | Deadline                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| Proposal of open-call sessions                                                                                                                                             | Monday 31st Jul. 2023 23:59 (JST)            |
+| Proposal of Forum                                                                                                                                                          | Friday 15th Sep. 2023 23:59 (JST)            |
+| Proposal of symposia and workshops <br>General presentations<br>Poster presentations by high school students                                                               | Tuesday 31st Oct. 2023 23:59 (JST)           |
 | Abstract registration for presentations in symposia, workshops, and forum/ general presentations<Br>Abstract registration for poster presentations by high school students | **Wednesday 31st Jan. 2024 23:59 (JST) ※1** |
 
 ※1 Please note that the abstract registration deadline is much earlier than in previous meetings.

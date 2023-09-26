@@ -20,7 +20,7 @@ Upcoming information will be shown on this web site.
 ## Meeting Schedule
 
 | Format | Date                                | Onsite Venue                 | Onsite Events                                                    | Online Events                                                                                                     |
-|--------|-------------------------------------|------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| ------ | ----------------------------------- | ---------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Online | Day 1:<br>16 Mar (Sat)              |                              |                                                                  | Oral presentations<br>Poster presentations<br>Workshops<br>Opening ceremony                                       |
 | Online | Day 2:<br>17 Mar (Sun)              |                              |                                                                  | Oral presentations<br>Poster presentations<br>Workshops<br>Ecological lectures for junior and high school student |
 | Hybrid | Middle day:<br>18 Mar (Mon)         | Yokohama Kannai Hall         | Award lectures                                                   | General meeting<br>Real time Zoom streaming                                                                       |
