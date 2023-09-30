@@ -30,6 +30,11 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-09-30: **Important: The following deadlines have been changed to 31st January 2024.**
+    * Registration of workshop only audience
+    * Payment of membership registration fee by a non-member
+    * Payment of membership registration fee by ESJ members
+    * Refund for cancellation
 * 2023-09-09: Added [Session proposal guidelines](session_proposal_guidelines).
 * 2023-08-07: [Basic Meeting Information](basic_information) is now available.
 * 2023-08-07: Added schedule of the meeting on this page.

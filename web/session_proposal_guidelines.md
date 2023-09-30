@@ -45,7 +45,7 @@ We invite ESJ members to propose symposia for ESJ71. The symposia are the centra
 
 ### Procedures for symposia speakers
 
-* Except for non-ESJ member invited speakers, only members who have applied for membership in ESJ by Tuesday, 31 October 2023 and have paid the annual membership fee by 20 February 2024 (regular and honorary members, hereinafter the same) are eligible to speak at the symposium.
+* Except for non-ESJ member invited speakers, only members who have applied for membership in ESJ by Tuesday, 31 October 2023 and have paid the annual membership fee by 31 January 2024 (regular and honorary members, hereinafter the same) are eligible to speak at the symposium.
 * All speakers (except invited speakers) are required to pay the meeting registration fee by the day of the meeting. We recommend that you pay the fee as early as possible to log in to the meeting platform smoothly.
 * Each speaker is requested to provide the following information, in both Japanese and English, to the symposium organizer by the symposium proposal deadline (31 October 2023): title (maximum 40 characters in Japanese and 150 characters in English), name and affiliation of the speaker and co-presenters, and the speaker's membership number (login ID for invited speakers). Please also let the organizer know whether you would like your presentation to be distributed on-demand.
 * Each speaker is required to register an abstract (maximum 800 words in Japanese, 200 words in English) on the meeting registration site by Wednesday, 31 January 2024.
@@ -82,7 +82,7 @@ ESJ71 is calling for workshops. The ESJ has traditionally considered workshops a
 
 ### Procedures for workshop speakers
 
-* Only members who have applied for membership in ESJ by Tuesday, 31 October 2023 and have paid the annual membership fee by 20 February 2024 are eligible to speak at the workshop. However, non-ESJ members can make comments and/or express opinions without registering an abstract.
+* Only members who have applied for membership in ESJ by Tuesday, 31 October 2023 and have paid the annual membership fee by 31 January 2024 are eligible to speak at the workshop. However, non-ESJ members can make comments and/or express opinions without registering an abstract.
 * All speakers are required to pay the meeting registration fee by the day of the meeting. We recommend that you pay the fee as early as possible to log in to the meeting platform smoothly.
 * Each speaker is requested to provide the following information, in both Japanese and English, to the workshop organizer by the workshop proposal deadline (31 October 2023): title (maximum 40 characters in Japanese and 150 characters in English), name and affiliation of the speaker and co-presenters, and the speaker's membership number (login ID for invited speakers). Please also let the organizer know whether you would like your presentation to be distributed on-demand. Each speaker is required to register an abstract (maximum 800 characters in Japanese, 200 words in English) on the meeting registration site by Monday, 31 January 2024. When registering your abstract, you will be asked to select about 5 keywords related to your presentation.
 

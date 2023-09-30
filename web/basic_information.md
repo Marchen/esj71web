@@ -58,19 +58,19 @@ For detailed information on how to register, please see the "Registration and Su
 ### Registration
 
 |                                             | Regular participants and students                                                                                                     | Audience member for workshops only※ | Undergraduate students who will not give presentations<br>Junior and high school students |
-|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|:------------------------------------------------------------------------------------------|
-| Registration<br>Payment of registration fee | 2nd Oct. 2023<br> – 16th Mar. 2024                                                                                                    | 2nd Oct. 2023<br>– 20th Feb. 2024    | 1st Mar. 2024<br>– 16th Mar. 2024                                                         |
+| :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- | :---------------------------------------------------------------------------------------- |
+| Registration<br>Payment of registration fee | 2nd Oct. 2023<br> – 16th Mar. 2024                                                                                                    | 2nd Oct. 2023<br>– 31st Jan. 2024    | 1st Mar. 2024<br>– 16th Mar. 2024                                                         |
 | Registration fee                            | Early bird discount price<br>Regular: 13,000 JPY<br>Students: 6,000 JPY<br>Normal price<br>Regular: 15,000 JPY<br>Students: 7,000 JPY | 1,000 JPY                            | Free                                                                                      |
 
 ※ Online only, cannot participate in the onsite venue.
 
 ### Deadlines for new (and renewed) membership registration, and payment of meeting registration fee
 
-|                                                        | Deadline                             |
-|:-------------------------------------------------------|:-------------------------------------|
-| Application for membership by a non-member             | Tuesday, 31st Oct 2023, 23:59 (JST)  |
-| Payment of membership registration fee by a non-member | Tuesday, 20th Feb. 2023, 23:59 (JST) |
-| Payment of membership registration fee by ESJ members  | Tuesday, 20th Feb. 2023, 23:59 (JST) |
+|                                                        | Deadline                               |
+| :----------------------------------------------------- | :------------------------------------- |
+| Application for membership by a non-member             | Tuesday, 31st Oct 2023, 23:59 (JST)    |
+| Payment of membership registration fee by a non-member | Wednesday, 31st Jan. 2023, 23:59 (JST) |
+| Payment of membership registration fee by ESJ members  | Wednesday, 31st Jan. 2023, 23:59 (JST) |
 
 * After applying for your membership via the website, the ESJ Member Service Desk will notify you of a temporary member number. Please use this number for the submission of session proposals or presentations as described below.
 * Membership registrations are accepted at any time for participants who are not giving presentations. However, participants who wish to submit proposals and apply for presentations are required to get their temporary membership number and to complete registration by the 31st Oct. 2023 (submission of proposals and presentations will not be accepted later than 23:59). Please note that it may take some time between the membership registration and the issue of your temporary membership number. Your early registration would be appreciated. For details about membership, please refer to [How to join](https://esj.ne.jp/esj/English/join.html).
@@ -117,7 +117,7 @@ ESJ71 will not accept corrections with errata after the submission of presentati
 
 ### Cancellation policy
 
-If there are requests to cancel participation before the refund deadline (20th February 2024 for this meeting), refunds will be made. Bank transfer fees and other expenses cannot be refunded. As a rule, no refund will be given after the refund deadline is announced.
+If there are requests to cancel participation before the refund deadline (31st January 2024 for this meeting), refunds will be made. Bank transfer fees and other expenses cannot be refunded. As a rule, no refund will be given after the refund deadline is announced.
 
 ### Handling of research achievements when presentations cannot be given at ESJ71
 
