@@ -53,7 +53,7 @@ The banquet of ESJ71 will be held in an online format using SpatialChat. It will
 
 ## DEADLINES AND FEES
 
-For detailed information on how to register, please see the "Registration and Submission" page.
+For detailed information on how to register, please see the [Registration Guidelines](registration_guidelines), [Oral and poster presentation sessions](oral_and_poster_sessions), and [Session Proposal Guidelines](session_proposal_guidelines) pages.
 
 ### Registration
 
@@ -74,6 +74,7 @@ For detailed information on how to register, please see the "Registration and Su
 
 * After applying for your membership via the website, the ESJ Member Service Desk will notify you of a temporary member number. Please use this number for the submission of session proposals or presentations as described below.
 * Membership registrations are accepted at any time for participants who are not giving presentations. However, participants who wish to submit proposals and apply for presentations are required to get their temporary membership number and to complete registration by the 31st Oct. 2023 (submission of proposals and presentations will not be accepted later than 23:59). Please note that it may take some time between the membership registration and the issue of your temporary membership number. Your early registration would be appreciated. For details about membership, please refer to [How to join](https://esj.ne.jp/esj/English/join.html).
+* Members who have not paid annual membership fee since 2022 will not be able to apply for the 2024 conference until the registration desk confirm the payment of the 2022 membership fee. Please make sure to pay the membership fee one week prior to the presentation deadline, as you will not be able to submit your presentation until we confirm your payment and update your status.
 
 ### Deadlines related to organizers and presenters
 
