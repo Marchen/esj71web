@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/session_proposal_guidelines_ja/
-menu: 各種申込 > 各種集会の企画
+menu: 大会案内 > 各種集会の企画
 toc: false
 multi_language: true
 ---

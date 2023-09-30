@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/session_proposal_guidelines/
-menu: Registration > Session Proposal Guidelines
+menu: Meeting Information > Session Proposal Guidelines
 toc: false
 multi_language: true
 ---
