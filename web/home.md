@@ -30,6 +30,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-09-30: Added [Oral and poster presentation sessions](oral_and_poster_sessions) page.
 * 2023-09-30: Added [Frequently Asked Questions](faq) page.
 * 2023-09-30: **Important: The following deadlines have been changed to 31st January 2024.**
     * Registration of workshop only audience
