@@ -9,7 +9,7 @@ multi_language: true
 
 ## 申し込み窓口
 
-2023年10月2日になりましたら、本欄に大会申し込みサイトへのリンクを作成します。
+申し込みサイトは[こちら](https://iap-jp.org/esj/conf/login.php)です。
 [大会申し込み案内](registration_guidelines_ja)を参考に申し込みを行ってください。
 
 ## 領収書の発行

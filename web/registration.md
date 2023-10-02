@@ -9,7 +9,7 @@ multi_language: true
 
 ## Registration and submission
 
-On October 2, 2023, we will create a link to the registration site here.
+Registration page can be accessed from [here](https://iap-jp.org/esj/conf/login_en.php).
 Please consult the [Registration Guidelines](registration_guidelines) when registering.
 
 ## Receipt
