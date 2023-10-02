@@ -65,11 +65,11 @@ The Banquet will be held online through SpatialChat. The fee is free and no appl
 
 If you are an ESJ member, please contact our membership administration officer using the inquiry form on the [The Ecological Society of Japan - My Page](https://bunken.org/esj/mypage/login/login). If you are not an ESJ member, please contact the [inquiry form](contact).
 
-### If I’m not planning to give a presentation, can I apply to attend the meeting after the application deadline for the presentation registration has passed?
+### If I'm not planning to give a presentation, can I apply to attend the meeting after the application deadline for the presentation registration has passed?
 
 Yes. You can apply and pay for the meeting as an audience member until the starting day of the ESJ71 meeting.
 
-### I’d like to change the information I submitted about my oral/poster presentation
+### I'd like to change the information I submitted about my oral/poster presentation
 
 You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration (October 31, 2023). After that, you cannot correct any information about your presentation.
 
