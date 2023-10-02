@@ -81,6 +81,10 @@ You can freely cancel your presentation on the webpage before the deadline for r
 
 Please contact the [inquiry form](contact). You can cancel your registration free of charge until January 31, 2024.
 
+### I would like to give a presentation at the symposium. Can I also apply for the oral or poster presentation to have a presentation in case my proposal for the symposium is not accepted?
+
+Please don't apply for symposium and oral/poster presentation together. In case your proposal is not accepted, alternative measures such as transferring for the workshop or oral/poster presentation will be provided.
+
 ## The contents of the program book and the web program
 
 ### After the schedule is decided, how do I revise the information about my session in the program book and the web program?
