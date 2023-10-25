@@ -30,6 +30,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-10-25: Payment deadline of the early bird discount was clarified on the [Registration](registration) page.
 * 2023-10-10: Added information about [Childcare fee assistance](childcare).
 * 2023-10-02: Added a link to registration system on the [Registration](registration) page.
 * 2023-10-02: Added [3.6 Attention for simultaneous application for symposium and oral/poster presentation](faq#I_would_like_to_give_a_presentation_at_the_symposium_Can_I_also_apply_for_the_oral_or_poster_presentation_to_have_a_presentation_in_case_my_proposal_for_the_symposium_is_not_accepted) on the [Frequently Asked Questions](faq) page.
