@@ -30,6 +30,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-10-26: Updated [Session proposal guidelines](session_proposal_guidelines#CALL_FOR_SYMPOSIA) to clarify the explanation of on-demand distribution of presentations on symposia.
 * 2023-10-25: Payment deadline of the early bird discount was clarified on the [Registration](registration) page.
 * 2023-10-10: Added information about [Childcare fee assistance](childcare).
 * 2023-10-02: Added a link to registration system on the [Registration](registration) page.

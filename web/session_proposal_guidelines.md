@@ -40,15 +40,15 @@ We invite ESJ members to propose symposia for ESJ71. The symposia are the centra
 * From the viewpoint of respecting diversity, organizers should consider the balance of speaker’s positions, gender, etc. when composing the group of speakers.
 * The Annual Meeting Planning Committee will not be involved in the content of the symposia. However, symposium proposals that are judged to contain contents that slander or libel any individual or organization will be declined.
 * When submitting the proposal, organizers are requested to answer whether the entire meeting (including an explanation of the purpose and comments by the commentator) can be distributed on-demand and whether each presentation can be distributed on-demand.
-* Organizers will register all the presentations at once. Before submitting the proposal, organizers should collect information on each presentation (title, names, and affiliations of speakers and co-presenters) in both Japanese and English, as well as the membership numbers of organizers, co-organizers, and speakers (login IDs for invited speakers).
+* Organizers are requested to answer whether the entire meeting (including an explanation of the purpose and comments by the commentator) can be distributed on-demand when submitting the proposal, and whether each presentation can be distributed on-demand when submitting abstract.
 * Please access the registration site and enter the symposium title, abstract (maximum 800 characters in Japanese, 200 words in English), and information for each presentation. Please note that the information of co-presenters will also be confirmed by this entry and cannot be changed at the time of the abstract submission.
 
 ### Procedures for symposia speakers
 
 * Except for non-ESJ member invited speakers, only members who have applied for membership in ESJ by Tuesday, 31 October 2023 and have paid the annual membership fee by 31 January 2024 (regular and honorary members, hereinafter the same) are eligible to speak at the symposium.
 * All speakers (except invited speakers) are required to pay the meeting registration fee by the day of the meeting. We recommend that you pay the fee as early as possible to log in to the meeting platform smoothly.
-* Each speaker is requested to provide the following information, in both Japanese and English, to the symposium organizer by the symposium proposal deadline (31 October 2023): title (maximum 40 characters in Japanese and 150 characters in English), name and affiliation of the speaker and co-presenters, and the speaker's membership number (login ID for invited speakers). Please also let the organizer know whether you would like your presentation to be distributed on-demand.
-* Each speaker is required to register an abstract (maximum 800 words in Japanese, 200 words in English) on the meeting registration site by Wednesday, 31 January 2024.
+* Each speaker is requested to provide the following information, in both Japanese and English, to the symposium organizer by the symposium proposal deadline (31 October 2023): title (maximum 40 characters in Japanese and 150 characters in English), name and affiliation of the speaker and co-presenters, and the speaker's membership number (login ID for invited speakers).
+* Each speaker is required to register an abstract (maximum 800 words in Japanese, 200 words in English) on the meeting registration site by Wednesday, 31 January 2024. Please also let the organizer know whether you would like your presentation to be distributed on-demand.
 
 ### Limitations on submitting proposals
 
