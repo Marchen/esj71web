@@ -19,5 +19,5 @@ ESJ71 企画委員長　大澤剛士
 
 **お知らせ（2023年10月7日）**
 公募の結果、ESJ71「公募セッション」では以下の2つのテーマが採択されました。
-【社会性・認知生態学/Eociality, Cognitive ecology】
+【社会性・認知生態学/Sociality, Cognitive ecology】
 【生態学と人間の文化/Ecology and human culture】
