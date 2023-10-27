@@ -27,7 +27,7 @@ multi_language: true
 
 ## CALL FOR SYMPOSIA
 
-We invite ESJ members to propose symposia for ESJ71. The symposia are the central sessions of the meeting. Please understand the concept of the symposia (described below) and submit your proposal. Each symposium will be held for three hours. We plan to have the symposia in a hybrid style (i.e., onsite & online). We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities. Please note that the presentations will be recorded and distributed on-demand during ESJ71 and for about a week afterward. The recording permissions will be confirmed when the proposal is submitted.
+We invite ESJ members to propose symposia for ESJ71. The symposia are the central sessions of the meeting. Please understand the concept of the symposia (described below) and submit your proposal. Each symposium will be held for three hours. We plan to have the symposia in a hybrid style (i.e., onsite & online). Therefore, as a general rule, speakers will be asked to present onsite. We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities. Please note that the presentations will be recorded and distributed on-demand during ESJ71 and for about a week afterward. The recording permissions will be confirmed when the proposal is submitted.
 
 ### About proposals
 
@@ -65,7 +65,7 @@ We invite ESJ members to propose symposia for ESJ71. The symposia are the centra
 
 ## CALL FOR WORKSHOPS
 
-ESJ71 is calling for workshops. The ESJ has traditionally considered workshops as important opportunities to discuss unconventional topics and launch new fields in Ecology. Please feel free to apply for the organization of workshops, referring to the following information. The workshops are planned to be around 90 minutes long. We look forward to receiving enthusiastic proposals from researchers of diverse positions, genders, and nationalities. The presentations will be recorded and distributed on-demand during the meeting and about one week after the meeting. We will confirm the recording permissions when the proposal is submitted.
+ESJ71 is calling for workshops. The ESJ has traditionally considered workshops as important opportunities to discuss unconventional topics and launch new fields in Ecology. Please feel free to apply for the organization of workshops, referring to the following information. The workshops are planned to be around 90 minutes long. We will ask your preference for online or hybrid presentation at the time of application. If the proposal is adopted as a hybrid session, the presenter will be required to present onsite as a general rule. We look forward to receiving enthusiastic proposals from researchers of diverse positions, genders, and nationalities. The presentations will be recorded and distributed on-demand during the meeting and about one week after the meeting. We will confirm the recording permissions when the proposal is submitted.
 
 ### Procedures for organizers of workshops
 
