@@ -130,7 +130,8 @@ Yes, you can cancel the on-site participation. You do not need to contact us for
 
 ### The speaker of the meeting which was scheduled to participate on-site suddenly asked for a remote presentation. Is it possible to change it?
 
-Yes, it is. Please contact us at least 10 days before ESJ71 starts, using the [inquiry form](contact), as it may affect the preparation at the venue. If you need to change your presentation to a remote presentation on the day of the meeting, please contact the venue staff before the meeting starts.
+~~Yes, it is. Please contact us at least 10 days before ESJ71 starts, using the [inquiry form](contact), as it may affect the preparation at the venue. If you need to change your presentation to a remote presentation on the day of the meeting, please contact the venue staff before the meeting starts.~~
+2023-10-29: This is currently under consideration. Information will be provided as soon as details are finalized.
 
 ### A speaker who was scheduled to attend the meeting remotely has suddenly requested to give a presentation on-site. Is it possible to change it?
 

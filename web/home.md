@@ -30,6 +30,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-10-29: FAQ item [6.4. The speaker of the meeting which was scheduled to participate on-site suddenly asked for a remote presentation. Is it possible to change it?](faq#The_speaker_of_the_meeting_which_was_scheduled_to_participate_on-site_suddenly_asked_for_a_remote_presentation_Is_it_possible_to_change_it) is also currently under consideration. Information will be provided as soon as details are finalized.
 * 2023-10-28: FAQ items [6.3. Is it possible to switch our symposia, workshop, or forum from on-site format to fully online format?](faq#Is_it_possible_to_switch_our_symposia_workshop_or_forum_from_on-site_format_to_fully_online_format) and [6.5 A speaker who was scheduled to attend the meeting remotely has suddenly requested to give a presentation on-site. Is it possible to change it?](faq#A_speaker_who_was_scheduled_to_attend_the_meeting_remotely_has_suddenly_requested_to_give_a_presentation_on-site_Is_it_possible_to_change_it) are currently under consideration. Information will be provided as soon as details are finalized.
 * 2023-10-27: Updated [Session proposal guidelines](session_proposal_guidelines) to clarify speakers of hybrid sessions are asked to present onsite as a general rule.
 * 2023-10-26: Updated [Session proposal guidelines](session_proposal_guidelines#CALL_FOR_SYMPOSIA) to clarify the explanation of on-demand distribution of presentations on symposia.
