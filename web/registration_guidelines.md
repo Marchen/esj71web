@@ -60,4 +60,3 @@ The application procedures are somewhat complicated, so please refer to the char
 ## Receipt
 
 For those who paid for their participation, we will issue a receipt on the registration system.
-<!--TODO: サイト公開後にリンクを作成-->

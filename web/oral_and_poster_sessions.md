@@ -54,7 +54,6 @@ multi_language: false
 ## English Presentation Award
 
 For ESJ71, the 10th English Presentation Award (EPA) will be held. We look forward to your applications. We also welcome oral presentations in English by mid-career/senior researchers who are not eligible for the award.
-<!--TODO: 10thでOKかを確認-->
 
 ### Purpose of the Award
 

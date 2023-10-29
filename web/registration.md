@@ -15,7 +15,6 @@ Please consult the [Registration Guidelines](registration_guidelines) when regis
 ## Receipt
 
 For those who paid for their participation, we will issue a receipt on the registration system.
-<!--TODO: サイト公開後にリンクを作成-->
 
 ## DEADLINES
 
