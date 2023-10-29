@@ -123,7 +123,7 @@ Yes, you are free to participate on-site on the day of the event.
 
 Yes, you can cancel the on-site participation. You do not need to contact us for a cancellation. Please join the meeting online.
 
-### ~~Is it possible to switch our symposia, workshop, or forum from on-site format to fully online format?~~
+### Is it possible to switch our symposia, workshop, or forum from on-site format to fully online format?
 
 ~~In principle, please hold the meeting according to the format chosen at the time of registration. If you have a compelling reason, please contact us at least one month in advance via the [inquiry form](contact). Please note that if ESJ71 is switched to online, your meeting will be automatically switched to online.~~
 2023-10-28: This is currently under consideration. Information will be provided as soon as details are finalized.
@@ -132,7 +132,7 @@ Yes, you can cancel the on-site participation. You do not need to contact us for
 
 Yes, it is. Please contact us at least 10 days before ESJ71 starts, using the [inquiry form](contact), as it may affect the preparation at the venue. If you need to change your presentation to a remote presentation on the day of the meeting, please contact the venue staff before the meeting starts.
 
-### ~~A speaker who was scheduled to attend the meeting remotely has suddenly requested to give a presentation on-site. Is it possible to change it?~~
+### A speaker who was scheduled to attend the meeting remotely has suddenly requested to give a presentation on-site. Is it possible to change it?
 
 ~~No, this is not allowed.~~
 2023-10-28: This is currently under consideration. Information will be provided as soon as details are finalized.
