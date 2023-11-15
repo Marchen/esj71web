@@ -45,7 +45,7 @@ multi_language: false
 * Speakers (i.e., the main presenter at oral or poster presentations) must be ESJ members (co-authors do not need to be ESJ members).
 * Speakers should register their presentations by 31st October 2023, and complete payment via the online registration system.
 * Speakers should provide the presentation title (within 40 characters in Japanese, within 150 characters in English) and author names when applying for a presentation.
-* Speakers should submit an abstract (within 800 characters in Japanese, within 200 words in English) via the online registration system by 31st January 2023.
+* Speakers should submit an abstract (within 800 characters in Japanese, within 400 words in English) via the online registration system by 31st January 2023.
 * Each ESJ member is allowed to serve as the speaker for only one oral or poster presentation (but can co-present more than one).
 * Organizers and speakers of symposia cannot give oral and poster presentations.
 * Panels used for on-site poster display are A0 vertical. On-site speakers are free to use this space.
