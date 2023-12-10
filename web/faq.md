@@ -37,7 +37,7 @@ Because the workshops are formalized events, presenters who only attend the work
 
 ### Are audience members who only attend the workshops required to apply for entry and pay the registration fee?
 
-If an audience member attends only the workshop and no other events, he/she HAS TO apply for entry and pay JPY1,000 for a workshop ticket until the deadline (January 31, 2024). Please check the [Registration](basic_information#Registration).
+If an audience member attends only the workshop and no other events, he/she HAS TO apply for entry and pay JPY1,000 for a workshop ticket until the deadline (January 31, 2024). Please note that participants with the workshop ticket can only participate online and not on-site. Please check the [Registration](basic_information#Registration).
 
 ### Can non-members attend the public lectures?
 
@@ -45,7 +45,7 @@ Yes. Participants who attend only the public lectures do not have to apply for e
 
 ### Can the registration and banquet fees be paid by my organization using public expense?
 
-Yes. For details, please contact the [inquiry form](contact).
+Yes. If you wish to pay by invoice, please apply for participation at the registration system first. Please select "Postal Transfer" as the payment method. We request that you pay in advance. After completing the application, please contact the [inquiry form](contact).
 
 ### Will receipts for the registration fee be issued?
 
@@ -148,6 +148,10 @@ Oral presentations will be conducted via uploaded, pre-recorded lecture videos. 
 ### I am invited to a symposium or workshop. Can I give my presentation via pre-recorded video with the consent of the organizer(s)?
 
 Yes, you can. It is up to the organizers and speakers to decide whether or not to have a Q&A session in real-time. However, the video must be created exclusively for ESJ71, and "re-use" of a video that has been used previously will not be allowed.
+
+### Is it possible to make only some of the presentations of a workshop/symposium private on-demand?
+
+It is possible. Even if you have requested on-demand distribution of the entire meeting when submitting the proposal, you can set whether or not individual presentations can be distributed on-demand at the time of abstract submission.
 
 ## Mailing program booklet
 
