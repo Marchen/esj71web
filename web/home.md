@@ -7,6 +7,18 @@ multi_language: true
 
 # Home
 
+## Important notice
+
+* 2023-11-14: Word limit of English abstracts increased from 200 words to 400 words. For the details, please see [Oral and poster presentation sessions](oral_and_poster_sessions) and [Session Proposal Guidelines](session_proposal_guidelines).
+* 2023-10-30: We have changed our policy of responses to changes in the format of presentations. For the details, please see the items [6.3](faq#Is_it_possible_to_switch_our_symposia_workshop_or_forum_from_on-site_format_to_fully_online_format), [6.4](faq#The_speaker_of_the_meeting_which_was_scheduled_to_participate_on-site_suddenly_asked_for_a_remote_presentation_Is_it_possible_to_change_it), and [6.5](faq#A_speaker_who_was_scheduled_to_attend_the_meeting_remotely_has_suddenly_requested_to_give_a_presentation_on-site_Is_it_possible_to_change_it) on the [FAQ page](faq).
+* 2023-09-30: Important: The following deadlines have been changed to 31st January 2024.
+    * Registration of workshop only audience
+    * Payment of membership registration fee by a non-member
+    * Payment of membership registration fee by ESJ members
+    * Refund for cancellation
+
+See more [update history](#Whats_new).
+
 ## Meeting Information
 
 The 71<sup>st</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
@@ -30,6 +42,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-12-12: Added [Important notice](#important_notice) on this page.
 * 2023-11-20: Updated [FAQ](faq) ([2.4](faq#Are_audience_members_who_only_attend_the_workshops_required_to_apply_for_entry_and_pay_the_registration_fee), [2.6](faq#Can_the_registration_and_banquet_fees_be_paid_by_my_organization_using_public_expense), and [6.8](faq#Is_it_possible_to_make_only_some_of_the_presentations_of_a_workshopsymposium_private_on-demand)).
 * 2023-11-14: **Important: Word limit of English abstracts increased from 200 words to 400 words.** For the details, please see [Oral and poster presentation sessions](oral_and_poster_sessions) and [Session Proposal Guidelines](session_proposal_guidelines).
 * 2023-10-30: **Important: We have changed our policy of responses to changes in the format of presentations.** For the details, please see the items [6.3](faq#Is_it_possible_to_switch_our_symposia_workshop_or_forum_from_on-site_format_to_fully_online_format), [6.4](faq#The_speaker_of_the_meeting_which_was_scheduled_to_participate_on-site_suddenly_asked_for_a_remote_presentation_Is_it_possible_to_change_it), and [6.5](faq#A_speaker_who_was_scheduled_to_attend_the_meeting_remotely_has_suddenly_requested_to_give_a_presentation_on-site_Is_it_possible_to_change_it) on the [FAQ page](faq).
