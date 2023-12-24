@@ -5,7 +5,7 @@ toc: false
 multi_language: false
 ---
 
-# Oral and poster presentation sessions
+# Oral and Poster Presentation Sessions
 
 ## Application for oral and poster sessions
 
@@ -51,46 +51,76 @@ multi_language: false
 * Panels used for on-site poster display are A0 vertical. On-site speakers are free to use this space.
 * If you choose the ER Symposia "Sociality, cognitive ecology" and "Ecology and human culture" and wish to present on-site, the display location for your poster will be arranged near the symposium venue.
 
-## English Presentation Award
+### Precautions about the presentation materials
+
+* All online lectures, oral or posters, are publicly transmitted under copyright laws, so permissions are required. Please be careful not to cause copyright infringements and avoid any defamation in the presentation contents, on the slides shared on-screen, or on the PDF poster you submit. When quoting published work, cite the source appropriately. If the content of the writing (presentation slide or PDF poster) infringes the copyright of a third party or causes damage to a third party, the presenter will take its responsibility.
+
+## Oral Presentations
+
+### Instructions for Oral Presentations
+
+* Oral presentations will be held using Zoom Meetings. When the presentation time comes, the video files uploaded in advance will be played, and the real-time session for questions and answers will follow the presentation. Please note that the deadline for uploading presentation video files in advance is currently under consideration. Please keep the file size within 500MB. Only MP4 file format is supported.
+
+* Uploaded presentation videos will be made available on the conference platform (ONLINE CONF) on the day of presentation. The videos will remain available until three weeks after the end of the conference. Please select whether your presentation remains available after the conference at the time of application.
+
+* The video playback and screen sharing will be handled by a professional company. The sessions of questions and answers will be conducted verbally via Zoom.
+
+* If you are unable to upload your video files of presentation by the due date, please give your presentation in real-time via Zoom. If you are a real-time speaker and wish to receive on-demand streaming, please either 1) record your own real-time presentation or 2) create a video of your presentation and upload it to ONLINE CONF. Please edit the video so that the session for questions and answers is not included.
+
+* You can also use the comment function provided on each presentation page of the platform to ask questions. Please use the comment function on the page of each presentation at any time.
+
+* ESJ71 will be held online, thus, before the first meeting day, please do a thorough test on how to use Zoom, and test the stability of the internet connection you will use. There will be no rehearsal for the Zoom presentation. Please note that we cannot provide refunds or support for issues due to your network environment, devices, or files.
+
+* The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. For real-time presentation, the bell will ring once, twice, and three times at 10 minutes, 12 minutes, and 14 minutes and 30 seconds, respectively. For video presentation, the bell will ring three times at 2 minutes and 30 seconds after the start of Q&A.
+
+* In oral sessions, including those held in English, the presenter of the preceding talk will serve as the chairperson of the next talk. The staff will serve as the chairperson of the first talk.
+
+### English Presentation Award
 
 For ESJ71, the 10th English Presentation Award (EPA) will be held. We look forward to your applications. We also welcome oral presentations in English by mid-career/senior researchers who are not eligible for the award.
 
-### Purpose of the Award
+#### Purpose of the Award
 
 The English Presentation Award (EPA) aims to promote English presentations at the ESJ annual meetings and to offer all participants more opportunities to interact with international students and visiting researchers in Japan. The EPA sessions are also meant for students and early career researchers to improve their scientific communication skills, which are particularly useful in international meetings. The EPA in ESJ71 takes over these missions and intentions. The EPA is not a competition for language skills such as English fluency. Rather, the applicants are meant to compete in the research contents and the skills and attitudes about presenting their work. The winners are selected by the EPA working group in each section.
 
-### Eligibility criteria
+#### Eligibility criteria
 
 The previous EPA eligibility will also be followed in ESJ71. Namely, eligibility is limited to ESJ members who are undergraduate or graduate students or early-career researchers who have received a Ph.D. degree within 5 years, as of March 2024. Time taken off work for parental leave or family leave is not included in this 5-year limitation. Past winners of the Best EPA award are not eligible to apply, but past winners of the Excellent EPA award are eligible to apply. Please note that the eligibility criteria may be revised for ESJ72.
 
-### Judging criteria
+#### Judging criteria
 
 In each category, the winners are selected based on scoring by the judges. Details will be announced on the official ESJ71 website. Participants will be able to apply for the EPA through our online registration system. The system is expected to open around the early of October. Please visit our official ESJ71 website for the latest information. The EPA team group is looking forward to receiving your application.
 
-## Poster Award
+## Poster Presentations
+
+### Instructions for Poster Presentations
+
+It will be released soon.
+
+### Poster Award
 
 ESJ71 will give awards to outstanding poster presentations to encourage the research activities of early career researchers. Details about poster presentations will be posted on the ESJ71 official website too, so please refer to it when preparing posters. From the perspective of securing reviewers, ESJ71 set a limit of 500 applications for the Poster Award. Applications will be made on a “first- come, first-served” basis, and if the limit is reached, we will ask applicants to have presentations in general sessions (both oral and poster presentations) instead. There is no limit to the number of applications for the poster presentation session.
 
-### Eligibility criteria
+#### Eligibility criteria
 
 * Student ESJ members who have not obtained a Ph.D. as of the registration deadline for general sessions (31st October 2023).
 * Those who have won the poster "Best Award" or "Excellence Award" in poster sessions of past ESJ meetings cannot apply even if they meet the above condition. Past ESJ meetings include ones held jointly with EAFES.
 * In order to facilitate efficient judging, applicants for the Poster Award are required to submit a graphical abstract and explanatory video in addition to the poster itself as presentation content. However, the content of the graphical abstract and explanatory video will not affect the judging process.
 * Those who have preferred the ER Symposia "Sociality, cognitive ecology" and "Ecology and human culture" for their presentation cannot apply to the poster award.
 
-### Judging criteria
+#### Judging criteria
 
 Poster Award applicants are requested to consider following points when preparing posters.
 
-#### Transmission ability of poster information
+##### Transmission ability of poster information
 
 In poster presentations, it is important that the research content is displayed in an easy-to-understand manner. For example, it is necessary to provide the following: (1) a good title, (2) an easy-to-understand abstract, (3) ingenuities to attract lines of sight, and (4) ingenuities to convey rough contents in a short time. For that purpose, it is important that the characters and figures/tables are easy to read, that there is not too much information, and that the main points can be understood without explanations. For the sake of fairness, please refrain from changing the title after registration.
 
-#### Quality of research
+##### Quality of research
 
 Judges will consider the following points: (1) novelty and originality, (2) quality and quantity of data, (3) validity of analyses and methods, and (4) validity of discussion and conclusion.
 
-### Notes
+#### Notes
 
 * For these online poster presentations, it is possible to upload the poster itself plus supplementary materials (PDF and/or video). However, only the online poster itself will be judged (even if a poster is presented also on-site). It is recommended to prepare the online poster in the format of A4 landscape × 4. Please note that the format of the poster is under discussion and we will keep you posted.
 * The presentation technique (e.g., the skills shown by the presenter when explaining their poster) was subject to evaluation in the past, but it will not be considered at this meeting. This is because a good poster is thought to be understood just by reading it. Another reason is that the workload for the reviewers is significantly decreased by this. However, for posters that are difficult to evaluate just by looking at the poster, the reviewers may ask questions using the text chat or video-conferencing function during core time, and evaluate the poster based on the presenters’ responses.

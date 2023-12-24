@@ -42,6 +42,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-12-25: Added details about the [Oral presentations](oral_and_poster_sessions#Precautions_about_the_presentation_materials).
 * 2023-12-16: Added notes on the [Registration](registration) page.
 * 2023-12-12: Added [Important notice](#important_notice) on this page.
 * 2023-11-20: Updated [FAQ](faq) ([2.4](faq#Are_audience_members_who_only_attend_the_workshops_required_to_apply_for_entry_and_pay_the_registration_fee), [2.6](faq#Can_the_registration_and_banquet_fees_be_paid_by_my_organization_using_public_expense), and [6.8](faq#Is_it_possible_to_make_only_some_of_the_presentations_of_a_workshopsymposium_private_on-demand)).
