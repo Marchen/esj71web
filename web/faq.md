@@ -5,7 +5,7 @@ toc: true
 multi_language: true
 ---
 
-# Frequently asked questions
+# Frequently Asked Questions
 
 ## Deadline and conference program
 
