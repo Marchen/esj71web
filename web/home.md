@@ -42,6 +42,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2023-12-28: The [timetable and program](program_and_abstract) of the meeting was published.
 * 2023-12-25: Added details about the [Oral presentations](oral_and_poster_sessions#Precautions_about_the_presentation_materials).
 * 2023-12-16: Added notes on the [Registration](registration) page.
 * 2023-12-12: Added [Important notice](#important_notice) on this page.
