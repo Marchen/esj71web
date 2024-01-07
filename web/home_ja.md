@@ -42,6 +42,7 @@ multi_language: true
 
 ## 更新履歴
 
+* 2024-01-07: [みんなのジュニア生態学講座](high_school_student#みんなのジュニア生態学講座)の詳細を公開しました。
 * 2023-12-28: [大会日程とプログラム](program_and_abstract_ja)を公開しました。
 * 2023-12-25: [口頭発表の詳細](oral_and_poster_sessions_ja#資料作成の際の注意点)を追加しました。
 * 2023-12-16: [各種申し込み](registration_ja)ページに注釈を追記しました。
