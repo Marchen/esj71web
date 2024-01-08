@@ -17,6 +17,9 @@ multi_language: false
 **対面会場**：当日先着順 600名
 **オンライン会場**：当日先着順 1000名
 
+![公開講演会ポスター](https://esj-meeting.net/wp-content/uploads/2024/01/public_lecture.jpg)
+[ポスター(PDF)をダウンロード](https://esj-meeting.net/wp-content/uploads/2024/01/public_lecture.pdf)
+
 ## プログラム
 
 | 時間  | 発表者／発表内容                                                                                                              |

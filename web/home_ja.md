@@ -42,6 +42,7 @@ multi_language: true
 
 ## 更新履歴
 
+* 2024-01-08: [公開講演会](public_lecture)の[ポスター(PDF)](https://esj-meeting.net/wp-content/uploads/2024/01/public_lecture.pdf)を公開しました。
 * 2024-01-07: [みんなのジュニア生態学講座](high_school_student#みんなのジュニア生態学講座)の詳細を公開しました。
 * 2023-12-28: [大会日程とプログラム](program_and_abstract_ja)を公開しました。
 * 2023-12-25: [口頭発表の詳細](oral_and_poster_sessions_ja#資料作成の際の注意点)を追加しました。
