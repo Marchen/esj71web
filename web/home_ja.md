@@ -42,6 +42,7 @@ multi_language: true
 
 ## 更新履歴
 
+* 2024-01-11: [大会プログラム](program_and_abstract_ja)を更新しました：会場A 3月16日 15:15〜の口頭発表のテーマが「Material cycling」から「Material cycling / Fungi and microbes / Ecosystem management」に変更されました。
 * 2024-01-11: [大会基本情報](basic_information_ja)に[参加証と領収書](basic_information_ja#参加証・領収書)、[オンデマンド公開期間](basic_information_ja#開催形式)、[企画委員会](basic_information_ja#大会企画委員会)と[実行委員会](basic_information_ja#大会実行委員会)の名簿を追記しました。
 * 2024-01-08: [公開講演会](public_lecture)の[ポスター(PDF)](https://esj-meeting.net/wp-content/uploads/2024/01/public_lecture.pdf)を公開しました。
 * 2024-01-07: [みんなのジュニア生態学講座](high_school_student#みんなのジュニア生態学講座)の詳細を公開しました。
