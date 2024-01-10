@@ -39,7 +39,7 @@ Venues: Online / Yokohama National University
 * On March 16 and 17, All presentations except poster will be conducted using [Zoom meetings](https://zoom.us/jp-jp/meetings.html).Oral presentations require the file upload of pre-recorded lecture videos. The uploaded lecture videos will be made available on ONLINE CONF as well as streamed via Zoom at the time of presentation. Zoom will allow presenters to conduct a live Q&A session after the lecture videos have finished playing.
 * Poster presentations on March 16 and 17 will be conducted using poster files uploaded to the platform (ONLINE CONF), which participants will be free to browse during ESJ71. During core time, presenters can use video conferencing to explain their poster and answer questions to the audience.
 * Presentations on March 18-21 will be given at the venue (Yokohama National University) and simultaneously streamed in real time via zoom. Those who have made online poster presentations (including high school students' posters) may also display their posters at the venue on March 19 and 20, if they wish.
-* All talks, with the exception of “Oral presentations”, will be recorded and made accessible to participants on the platform until about one month after the ESJ71 meeting (on-demand streaming). The availability of the recordings will be confirmed to the presenter at registration.
+* All talks, with the exception of “Oral presentations”, will be recorded and made accessible to participants on the platform from one or two business days after the presentation to three weeks after the ESJ71 meeting (on-demand streaming). The availability of the recordings will be confirmed to the presenter at registration.
 
 ## FACILITATING INTERACTION AMONG PARTICIPANTS
 
@@ -57,10 +57,10 @@ For detailed information on how to register, please see the [Registration Guidel
 
 ### Registration
 
-|                                             | Regular participants and students                                                                                                     | Audience member for workshops only※ | Undergraduate students who will not give presentations<br>Junior and high school students |
-| :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- | :---------------------------------------------------------------------------------------- |
-| Registration<br>Payment of registration fee | 2nd Oct. 2023<br> – 16th Mar. 2024                                                                                                    | 2nd Oct. 2023<br>– 31st Jan. 2024    | 1st Mar. 2024<br>– 16th Mar. 2024                                                         |
-| Registration fee                            | Early bird discount price<br>Regular: 13,000 JPY<br>Students: 6,000 JPY<br>Normal price<br>Regular: 15,000 JPY<br>Students: 7,000 JPY | 1,000 JPY                            | Free                                                                                      |
+|                                             | Regular participants and students                                                                                                                    | Audience member for workshops only※ | Undergraduate students who will not give presentations<br>Junior and high school students |
+| :------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :---------------------------------------------------------------------------------------- |
+| Registration<br>Payment of registration fee | 2nd Oct. 2023<br> – 16th Mar. 2024                                                                                                                   | 2nd Oct. 2023<br>– 31st Jan. 2024    | 1st Mar. 2024<br>– 16th Mar. 2024                                                         |
+| Registration fee                            | Early bird discount price (~1/31)<br>Regular: 13,000 JPY<br>Students: 6,000 JPY<br>Normal price (3/1~)<br>Regular: 15,000 JPY<br>Students: 7,000 JPY | 1,000 JPY                            | Free                                                                                      |
 
 ※ Online only, cannot participate in the onsite venue.
 
@@ -103,9 +103,9 @@ Based on the "Act for Eliminating Discrimination Against People with Disabilitie
 
 ESJ71 will not create conventional meeting programs (PDF version and booklet) or abstract books. From around the end of December 2023, information such as meeting schedules and presentation information for each session (information previously published in the meeting programs) will be released on the ESJ71 official website, so please keep checking it. The abstracts of the presentations will be available on [the official website](https://esj.ne.jp/meeting/abst/) from the end of February 2024. They will also be available on the meeting platform (ONLINE CONF) from around 1st March 2024.
 
-### Receipts
+### Participation certificate/receipts
 
-Receipts can be issued online from the ESJ71 official website. Please note that there is no conventional delivery.
+Participation certificate and receipts will be issued from ONLINE CONF, not from the registration system. They will be available after March 1, when ONLINE CONF will be open. If you need your participation certificate and/or receipts before then, please contact us through the "ESJ71 Inquiry form".
 
 ### Using the meeting platform
 
@@ -131,3 +131,26 @@ If an applicant does not pay the registration fee by the deadline, their present
 ### Display of Career Explorer images
 
 If a student/postdoc speaker wishes, they can display a Career Explorer (CE) image indicating that they are looking for a job at the time of the oral or poster presentations. Please download the image from [The Japan Society of Applied Physics website](https://www.jsap.or.jp/jsap-meeting/career-explorer) and display it near the title page of the oral presentations or the title of the posters. Permission to use CE images has been obtained.
+
+## ANNUAL MEETING PLANNING COMMITTEE
+
+|                                                          |                                                                                                                                                                                                         |
+| :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chair                                                    | Takeshi Osawa                                                                                                                                                                                           |
+| Vice Chair                                               | Kazuo Takahashi                                                                                                                                                                                         |
+| Steering subcommittee                                    | Takuya Kobayashi, Koya Hashimoto, Kohei Takano, Daisuke Kyogoku, Masaru Sakai, Shunsuke Matsuoka, Yuuya Tachiki, Akifumi Tanabe, Shin-Taro Saiki, Michio Oguro                                          |
+| Symposium subcommittee                                   | Makoto Tokuda, Hisashi Sato, Satoshi Ohdachi, Akiko Hirata, Yume Imada, Masaya Tamura, Yosuke Kurihara, Shuntaro Watanabe, Hibiki Noda, Wakana Azuma, Yuichi Isaka, Nobuo Imai                          |
+| Poster subcommittee                                      | Takahiro Hirano, Shota Nishijima, Shigeaki Hasegawa, Kimiko Hirayama, Saeko Matsuhashi, Satoshi Yamashita, Naoaki Shimada, Yumiko Higuchi, Akari Shibata, Dai Koide, Mitsutoshi Tomotsune, Tsubasa Toji |
+| Subcommittee of high school student poster presentations | Koki Katsuhara, Yo Yamasaki, Yuzu Sakata, Satoki Sakai, Ryo Sakurai, Tatsuya Saga, Haruna Fujioka, Ko Mochizuki, Naoyuki Nakahama                                                                       |
+| Presentation composition subcommittee                    | Shin-ichiro Matsuzaki, Hajime Tomimatsu, Toshifumi Minamoto, Hideki Mori                                                                                                                                |
+| English session subcommittee                             | Mayuko Jomura, Kayoko Fukumori, Nobuaki Mizumoto, Makoto Kobayashi, Komei Kadowaki, Kaori Shiojiri, Hiroki Hata<br>Observer：Shinichi Tatsumi, Yuta Morii, Ryosuke Iritani                              |
+| Online subcommittee                                      | Keiichi Fukaya, Masaru Sakai<br>Observer：Masaki Hoso                                                                                                                                                   |
+
+## ANNUAL MEETING ORGANIZING COMMITTEE
+
+|                    |                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| President of ESJ71 | Fumito Koike                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Chair              | Maiko Kagami                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Vice Chair         | Takehiro Sasaki                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Members            | Wakana Azuma, Kiwako Araki, Yuichi Iwasaki, Satoshi Ohdachi, Michio Oguro, Ryo Kitagawa, Megumi Kimura, Kaoruko Kurata, Dai Koide, Hisashi Sato, Kohei Takenaka Takano, Gaku Takimoto, Makoto Tokuda, Hajime Tomimatsu, Ryosuke Nakadai, Shota Nishijima, Hibiki Noda, Akiko Hirata, Keiichi Fukaya, Sho Fukui, Takuya Furukawa, Kimiyo Matsumura, Shin-ichiro Matsuzaki, Hiroyuki Matsuda, Takahiro Morosawa, Yo Yamasaki, Akira Yoshioka |

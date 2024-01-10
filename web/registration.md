@@ -11,11 +11,11 @@ multi_language: true
 
 Registration page can be accessed from [here](https://iap-jp.org/esj/conf/login_en.php).
 Please consult the [Registration Guidelines](registration_guidelines) when registering.
-※ Word limit of English abstract has been changed from 200 words to 400 words.
+※ Word limit of English abstracts increased from 200 words to 400 words.
 
-## Receipt
+## Participation Certificate/Receipts
 
-For those who paid for their participation, we will issue a receipt on the registration system.
+Participation certificate and receipts will be issued from ONLINE CONF, not from the registration system. They will be available after March 1, when ONLINE CONF will be open. If you need your participation certificate and/or receipts before then, please contact us through the "ESJ71 Inquiry form".
 
 ## DEADLINES
 
@@ -39,12 +39,12 @@ For those who paid for their participation, we will issue a receipt on the regis
 
 ### Deadlines related to organizers and presenters
 
-|                                                                                                                                                                                | Deadline                                     |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
-| Proposal of open-call sessions                                                                                                                                                 | Monday 31st Jul. 2023 23:59 (JST)            |
-| Proposal of Forum                                                                                                                                                              | Friday 15th Sep. 2023 23:59 (JST)            |
-| Proposal of symposia and workshops <br>General presentations<br>Poster presentations by high school students                                                                   | Tuesday 31st Oct. 2023 23:59 (JST)           |
-| Abstract registration for presentations in symposia, workshops, and forum/ general presentations ※1<br>Abstract registration for poster presentations by high school students | **Wednesday 31st Jan. 2024 23:59 (JST)** ※2 |
+|                                                                                                                                                                               | Deadline                                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| Proposal of open-call sessions                                                                                                                                                | Monday 31st Jul. 2023 23:59 (JST)             |
+| Proposal of Forum                                                                                                                                                             | Friday 15th Sep. 2023 23:59 (JST)             |
+| Proposal of symposia and workshops <br>General presentations<br>Poster presentations by high school students                                                                  | Tuesday 31st Oct. 2023 23:59 (JST)            |
+| Abstract registration for presentations in symposia, workshops, and forum/ general presentations※1<Br>Abstract registration for poster presentations by high school students | **Wednesday 31st Jan. 2024 23:59 (JST)** ※2  |
 
-※1 Word limit of English abstract has been changed from 200 words to 400 words.
+※1 Word limit of English abstracts increased from 200 words to 400 words.
 ※2 Please note that the abstract registration deadline is much earlier than in previous meetings.
