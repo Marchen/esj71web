@@ -9,13 +9,13 @@ multi_language: true
 
 生態学会の[大会講演要旨閲覧ページ](https://esj.ne.jp/meeting/abst/index.html)から発表のプログラムと要旨を閲覧可能です（ESJ71の要旨は準備ができ次第公開します）。
 
-大会日程：[PDF](https://esj-meeting.net/wp-content/uploads/2024/01/timetable_ja.pdf)
+大会日程：[PDF](https://esj-meeting.net/wp-content/uploads/2024/01/timetable_20240112_ja.pdf)
 口頭発表プログラム：[PDF](https://esj-meeting.net/wp-content/uploads/2024/01/oral_presentations_ja.pdf)
 
 ## 大会日程
 
-![大会日程1](https://esj-meeting.net/wp-content/uploads/2024/01/timetable_ja_p1.png)
-![大会日程2](https://esj-meeting.net/wp-content/uploads/2023/12/timetable_ja_p2.png)
+![大会日程1](https://esj-meeting.net/wp-content/uploads/2024/01/timetable_20240112_ja_p1.png)
+![大会日程2](https://esj-meeting.net/wp-content/uploads/2024/01/timetable_20240112_ja_p2.png)
 
 ## 口頭発表プログラム
 
