@@ -57,6 +57,6 @@ The eligibility for ESJ members and non-members to participate in ESJ71 are as f
 The application procedures are somewhat complicated, so please refer to the chart below to see the steps you need to take.
 ![registration_flow](https://esj-meeting.net/wp-content/uploads/2023/09/registration_flow.png)
 
-## Receipt
+## Participation certificate/receipts
 
-For those who paid for their participation, we will issue a receipt on the registration system.
+Participation certificate and receipts will be issued from ONLINE CONF, not from the registration system. They will be available after March 1, when ONLINE CONF will be open.

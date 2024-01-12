@@ -59,6 +59,6 @@ multi_language: true
 
 ![参加登録フロー](https://esj-meeting.net/wp-content/uploads/2023/09/registration_flow_ja.png)
 
-## 領収書の発行
+## 参加証・領収書の発行
 
-領収書は、大会申し込みサイトからオンラインで発行できます。
+参加証・領収書は大会申込サイトではなく大会プラットフォームONLINE CONFから発行されます。印刷物での送付はありませんのでご注意ください。ONLINE CONFが公開される3月1日以降にダウンロード可能となります。

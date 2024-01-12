@@ -15,7 +15,7 @@ Please consult the [Registration Guidelines](registration_guidelines) when regis
 
 ## Participation certificate/receipts
 
-Participation certificate and receipts will be issued from ONLINE CONF, not from the registration system. They will be available after March 1, when ONLINE CONF will be open. If you need your participation certificate and/or receipts before then, please contact us through the "ESJ71 Inquiry form".
+Participation certificate and receipts will be issued from ONLINE CONF, not from the registration system. They will be available after March 1, when ONLINE CONF will be open.
 
 ## DEADLINES
 

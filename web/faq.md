@@ -49,7 +49,7 @@ Yes. If you wish to pay by invoice, please apply for participation at the regist
 
 ### Will receipts for the registration fee be issued?
 
-Yes. Receipts will be issued electronically on the registration site. If you have specific requirements for the receipt, please contact the [inquiry form](contact).
+Yes. Receipts will be issued from ONLINE CONF, not from the registration system. They will be available after March 1, when ONLINE CONF will be open.
 
 ### Is the registration fee taxable?
 
