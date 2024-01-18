@@ -42,6 +42,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-01-18: Application form for the [Childcare fee assistance](childcare) was opened.
 * 2024-01-12: Timetable of the oral presentations on the [Program and Abstract](program_and_abstract) page was updated: invitations to SpatialChat were added.
 * 2024-01-11: Program of the oral presentations was added to [Program and Abstract](program_and_abstract).
 * 2024-01-11: Timetable of the oral presentations on the [Program and Abstract](program_and_abstract) page was updated: the topic of presentations in Room A on 16 March 15:15- was changed from "Material cycling" to "Material cycling / Fungi and microbes / Ecosystem management".

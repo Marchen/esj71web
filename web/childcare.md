@@ -27,7 +27,7 @@ We subsidize half of the cost, while the maximum per child per day is 5,000 yen.
 
 ## Application (in advance only)
 
-The application will be accepted from January 17th (Wednesday) to 23:59 on February 20th (Tuesday) 2024. The application page will be available from January 17th.
+The application will be accepted from January 17th (Wednesday) to 23:59 on February 20th (Tuesday) 2024. Please apply using [this application form](https://forms.gle/mscwZxBbaBgwg6LUA). Please note that you will not be able to receive a childcare subsidy without the advanced application.
 We will send you e-mail for confirmation when we receive your application. If you do not receive a reply by the end of February, please contact the ESJ71 childcare staffs ([nursery@esj.ne.jp](mailto:nursery@esj.ne.jp)).
 
 ## Submission of receipt
