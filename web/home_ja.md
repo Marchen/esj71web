@@ -42,6 +42,7 @@ multi_language: true
 
 ## 更新履歴
 
+* 2024-02-01: [キャリア支援](career)のページを追加しました。
 * 2024-01-18: [託児費の補助](childcare_ja)に申し込みフォームを追加しました。
 * 2024-01-12: [大会日程](program_and_abstract_ja)を更新しました：SpatialChatへのお誘いを追加しました。
 * 2024-01-11: [大会日程](program_and_abstract_ja)を更新しました：会場A 3月16日 15:15〜の口頭発表のテーマが「Material cycling」から「Material cycling / Fungi and microbes / Ecosystem management」に変更されました。
