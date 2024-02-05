@@ -55,9 +55,9 @@ multi_language: false
 
 * All online lectures, oral or posters, are publicly transmitted under copyright laws, so permissions are required. Please be careful not to cause copyright infringements and avoid any defamation in the presentation contents, on the slides shared on-screen, or on the PDF poster you submit. When quoting published work, cite the source appropriately. If the content of the writing (presentation slide or PDF poster) infringes the copyright of a third party or causes damage to a third party, the presenter will take its responsibility.
 
-## Oral Presentations
+## Oral presentations
 
-### Instructions for Oral Presentations
+### Instructions for oral presentations
 
 * Oral presentations will be held using Zoom Meetings. When the presentation time comes, the video files uploaded in advance will be played, and the real-time session for questions and answers will follow the presentation. Please note that the deadline for uploading presentation video files in advance is currently under consideration. Please keep the file size within 500MB. Only MP4 file format is supported.
 
@@ -79,7 +79,7 @@ multi_language: false
 
 For ESJ71, the 10th English Presentation Award (EPA) will be held. We look forward to your applications. We also welcome oral presentations in English by mid-career/senior researchers who are not eligible for the award.
 
-#### Purpose of the Award
+#### Purpose of the award
 
 The English Presentation Award (EPA) aims to promote English presentations at the ESJ annual meetings and to offer all participants more opportunities to interact with international students and visiting researchers in Japan. The EPA sessions are also meant for students and early career researchers to improve their scientific communication skills, which are particularly useful in international meetings. The EPA in ESJ71 takes over these missions and intentions. The EPA is not a competition for language skills such as English fluency. Rather, the applicants are meant to compete in the research contents and the skills and attitudes about presenting their work. The winners are selected by the EPA working group in each section.
 
@@ -91,7 +91,7 @@ The previous EPA eligibility will also be followed in ESJ71. Namely, eligibility
 
 In each category, the winners are selected based on scoring by the judges. Details will be announced on the official ESJ71 website. Participants will be able to apply for the EPA through our online registration system. The system is expected to open around the early of October. Please visit our official ESJ71 website for the latest information. The EPA team group is looking forward to receiving your application.
 
-## Poster Presentations
+## Poster presentations
 
 ### Preparing poster presentations
 
