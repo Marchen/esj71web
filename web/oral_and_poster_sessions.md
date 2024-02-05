@@ -93,9 +93,39 @@ In each category, the winners are selected based on scoring by the judges. Detai
 
 ## Poster Presentations
 
-### Instructions for Poster Presentations
+### Preparing poster presentations
 
-It will be released soon.
+#### Abstract
+
+Poster presentations will be conducted using poster files uploaded to the platform (ONLINE CONF), which participants will be free to browse during ESJ71. The platform provides video conferencing (during core hours only) and a text chat function. During core time, presenters can use video conferencing to explain their poster and answer questions to the audience. The text chat function includes notifications when audience members comment on posters. If the presenter and audience members would like to have further discussion outside of core hours, they need to arrange their video meeting using external tools such as Zoom. However, they can also use the text chat function to announce the URL of such external meetings.
+
+#### File format, file size, and paper size
+
+* Poster presentations may consist of a poster (plus supplementary materials), a graphical abstract, and an explanatory video.
+* Poster files must be prepared in PDF format (without embedded audio and video); PDF files of up to 5MB can be uploaded (it is recommended that the size of the PDF file is no larger than 1MB or 500KB per page because larger files will take longer to be displayed on the platform). To ensure visibility and readability on the platform, we recommend “A4-size, approximately four sheets, horizontally” format. The A4 version with normal font size (e.g., 12 point) will provide good visibility and readability on the platform without enlargement. Please ensure that the research can be understood without the need for an oral explanation.
+* The Ecological Society of Japan is committed to international exchange. For this reason, we welcome any accommodations for audiences who do not understand Japanese. For example, the presenter can write the main points of the poster in both Japanese and English or prepare an English poster separately. If the presenter provides a separate poster in English, we recommend that the presenter prepares two versions of the same poster (two sets of four sheets for the A4 version).
+* The presenter may choose to display supplementary material (e.g., additional figures, data, and/or documents) to complement the content of the main poster and help the audience to understand it better. These materials must be contained in the pages following the main sheet(s) of the poster and uploaded as a single PDF file to the system. Please note that the maximum file size is 5MB, even with the English poster and these additional materials.
+* Graphical abstracts will be used as thumbnail images for the list of poster presentations, as the first poster image displayed on the platform, and as background contents for Spatial Chat, the place for social time after each session and online banquet. Please create your graphical abstract as a JPG image of 1200 pixels high x 1200 pixels wide. It does not necessarily have to be an image that summarizes your research. For example, a photograph of the studied organism is also acceptable. It should be eye-catching. The use of a graphical abstract is mandatory for poster award applicants, but optional for all other presenters.
+* In addition to the poster file (PDF), the presenter may also upload a video explaining the content of the poster or supplementing the content of the poster (only one file, MP4 format only, no more than 500 MB, no more than 5 minutes). This video will be displayed separately from the poster on the platform. The audience will be able to watch the video while viewing the poster or listen only to the audio contained in the video file while viewing the poster. The use of an explanatory video is mandatory for poster award applicants, but optional for all other presenters.
+
+#### Poster upload
+
+* From 1st March 2024, you will be able to upload poster files and video files. The upload will be done by the applicants themselves.
+* Applicants of presentations applying for the Poster Award should upload the poster files (including graphical abstracts) by 23:59 on 15th March 2024. This is because we need time to paste your graphical abstract on Spatial Chat. Please upload your file by the deadline, even for presentations that have not applied for a poster award.
+* In addition, the deadline for uploading graphical abstracts is under consideration. If you do not upload the files by the core time, they may be treated as unpublished, so please prepare early.
+
+#### Others
+
+* Uploaded posters are set so that they cannot be downloaded or copied.
+* The posters will continue to be available on the platform for about a week after the meeting, during which you can continue to have discussions using text chat. Please use it as a place for interactions even after the meeting.
+
+### On-site Poster Presentation
+
+* At this conference, among the online poster participants, those selected by lottery will have the right to display physical posters on-site for two days (19th and 20th March 2024). During this poster display period, core time will be set on one of these days as a general rule (we plan to contact the scheduled presenters about this later). However, if it is really difficult for the presenter to be present during the designated core time due to their schedule (for example, if they can only display on one of the days), it is permissible to take core time on another day within the display period. Voluntarily taking core time on both days is also acceptable.
+* The venue opens at 9:00 AM on both days. Upon arrival, please complete registration and then proceed to put up your poster. At the very least, ensure that your poster is displayed before the core time on the day you are available to present.
+* Posters will be displayed on A0 size vertical boards. Within this size range, presenters are free to use the space as they wish, whether it be displaying a single poster or displaying a split one. However, please ensure that your display does not exceed the size limit and encroach on the neighboring board, so as not to interfere with other presenters.
+* Please bring your own thumbtacks for mounting the poster. Be aware that thumbtacks tend to run out of stock in stores around the venue, so please take note of this.
+* This conference will be one of the first in a long time to feature on-site poster presentations. As we anticipate congestion on the day of the event, we ask that you take appropriate measures for infectious disease prevention at your own responsibility.
 
 ### Poster Award
 
@@ -126,3 +156,18 @@ Judges will consider the following points: (1) novelty and originality, (2) qual
 * The presentation technique (e.g., the skills shown by the presenter when explaining their poster) was subject to evaluation in the past, but it will not be considered at this meeting. This is because a good poster is thought to be understood just by reading it. Another reason is that the workload for the reviewers is significantly decreased by this. However, for posters that are difficult to evaluate just by looking at the poster, the reviewers may ask questions using the text chat or video-conferencing function during core time, and evaluate the poster based on the presenters’ responses.
 * Consideration of researchers who do not fluently understand Japanese is also taken into account. During evaluation, only the contents of the poster will be evaluated regardless of the language used, but for posters that receive the same score following evaluation, the one that can be understood in English will be ranked higher. A poster that can be understood in English is one in which the title, introduction, and conclusion are written in English in addition to Japanese, so that the outline of the research can be understood just by reading the English parts. Alternatively, presenters may choose to provide a poster translated into English (English version poster) on a separate page.
 * If you select "English" or "Bilingual" as the language used, please include explanations in English on the poster, or prepare a poster which is translated into English (English version poster).
+
+### Additional awards for poster presentations
+
+* In addition to the usual Poster Award, the "Likes!" Award and the Best Discusser Award, which will be selected by all participants.
+* This award will be separate from the usual Poster Awards with the intention to facilitate communication among the participants through the comment function. This is not an official award of the Ecological Society of Japan, as it will be awarded independently by ESJ71.
+
+### "Likes!" Award
+
+* The selection of winners will be based on the number of votes cast ("Likes!") for each poster presentation. All participants, including high school students, are eligible to vote, but only votes cast by those who post comments on the poster presentation will be counted as valid votes.
+* In the selection process for this award, the poster that receives a large number of viewers will have the advantage. Therefore, due to the characteristics of the browsing system, the lower numbered posters will tend to have an advantage.
+
+#### Best Discusser Award
+
+* ESJ71 will present this award to participants who have contributed to the excitement of poster by posting good comments.
+* The selection of winners will be based on the number of “Likes!” pressed on the comments. All participants including high school students are eligible to press “Likes!” on the comments.
