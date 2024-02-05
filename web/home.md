@@ -9,13 +9,9 @@ multi_language: true
 
 ## Important notice
 
+* From Feb 1st to Feb 29th we won't be able to accept registration and payment. From Mar 1st, we will accept them again on the upcoming online platform of the meeting.
 * 2023-11-14: Word limit of English abstracts increased from 200 words to 400 words. For the details, please see [Oral and poster presentation sessions](oral_and_poster_sessions) and [Session Proposal Guidelines](session_proposal_guidelines).
 * 2023-10-30: We have changed our policy of responses to changes in the format of presentations. For the details, please see the items [6.3](faq#Is_it_possible_to_switch_our_symposia_workshop_or_forum_from_on-site_format_to_fully_online_format), [6.4](faq#The_speaker_of_the_meeting_which_was_scheduled_to_participate_on-site_suddenly_asked_for_a_remote_presentation_Is_it_possible_to_change_it), and [6.5](faq#A_speaker_who_was_scheduled_to_attend_the_meeting_remotely_has_suddenly_requested_to_give_a_presentation_on-site_Is_it_possible_to_change_it) on the [FAQ page](faq).
-* 2023-09-30: Important: The following deadlines have been changed to 31st January 2024.
-    * Registration of workshop only audience
-    * Payment of membership registration fee by a non-member
-    * Payment of membership registration fee by ESJ members
-    * Refund for cancellation
 
 See more [update history](#Whats_new).
 
@@ -42,6 +38,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-02-05: [Important notice](#Important_notice) of this page was updated.
 * 2024-02-04: [Details of the poster presentation](oral_and_poster_sessions#Poster_presentations) are published.
 * 2024-01-18: Application form for the [Childcare fee assistance](childcare) was opened.
 * 2024-01-12: Timetable of the oral presentations on the [Program and Abstract](program_and_abstract) page was updated: invitations to SpatialChat were added.
