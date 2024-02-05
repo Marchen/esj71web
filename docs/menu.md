@@ -13,6 +13,7 @@
     * [ER シンポジウム](../web/er_symposium_ja.md)
   * [各種申し込み](../web/registration_ja.md)
   * [プログラムと要旨](../web/program_and_abstract_ja.md)
+    * [プログラムと要旨](../web/program_and_abstract_ja.md)
     * [キャリア支援](../web/career.md)
   * [お問い合わせ](../web/contact_ja.md)
     * [お問い合わせ](../web/contact_ja.md)
