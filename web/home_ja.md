@@ -42,6 +42,7 @@ multi_language: true
 
 ## 更新履歴
 
+* 2024-02-04: [高校生ポスター・みんなのジュニア生態学講座](high_school_student)ページに[開催日時](high_school_student#日時)と[高校生ポスター発表の詳細](high_school_student#高校生ポスター)を追加しました。
 * 2024-02-01: [キャリア支援](career)のページを追加しました。
 * 2024-01-18: [託児費の補助](childcare_ja)に申し込みフォームを追加しました。
 * 2024-01-12: [大会日程](program_and_abstract_ja)を更新しました：SpatialChatへのお誘いを追加しました。
