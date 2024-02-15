@@ -38,6 +38,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-02-15: The [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-02-05: [Important notice](#Important_notice) of this page was updated.
 * 2024-02-04: [Details of the poster presentation](oral_and_poster_sessions#Poster_presentations) are published.
 * 2024-01-18: Application form for the [Childcare fee assistance](childcare) was opened.
