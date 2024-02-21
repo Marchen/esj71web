@@ -144,7 +144,7 @@ If a student/postdoc speaker wishes, they can display a Career Explorer (CE) ima
 | Subcommittee of high school student poster presentations | Koki Katsuhara, Yo Yamasaki, Yuzu Sakata, Satoki Sakai, Ryo Sakurai, Tatsuya Saga, Haruna Fujioka, Ko Mochizuki, Hirotaka Komine, Miyabi Nakabayashi, Tetsuya Matsumoto, Satsuki Tsuji                                                                                     |
 | Presentation composition subcommittee                    | Shin-ichiro Matsuzaki, Hajime Tomimatsu, Toshifumi Minamoto, Hideki Mori                                                                                                                                                                                                   |
 | English session subcommittee                             | Mayuko Jomura, Kayoko Fukumori, Nobuaki Mizumoto, Makoto Kobayashi, Komei Kadowaki, Kaori Shiojiri, Hiroki Hata<br>Observer: Shinichi Tatsumi, Yuta Morii, Ryosuke Iritani                                                                                                 |
-| Online subcommittee                                      | Keiichi Fukaya, Masaru Sakai<br>Observer: Masaki Hoso                                                                                                                                                                                                                      |
+| Online subcommittee                                      | Keiichi Fukaya, Masaru Sakai, Shunsuke Matsuoka, Hirotaka Komine, Tetsuya Matsumoto, Dai Koide, Naoaki Shimada, Makoto Kobayashi, Adachi Minako, Makoto Tokuda, Hisashi Sato, Shin-ichiro Matsuzaki, Hajime Tomimatsu<br>Observer: Masaki Hoso                             |
 
 ## ANNUAL MEETING ORGANIZING COMMITTEE
 
