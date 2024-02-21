@@ -11,6 +11,7 @@
     * [託児費補助](../web/childcare_ja.md)
     * [公募セッション](../web/esj_opensession.md)
     * [ER シンポジウム](../web/er_symposium_ja.md)
+    * [親善フットサル大会 エコカップ2024](../web/ecocup.md)
   * [各種申し込み](../web/registration_ja.md)
   * [プログラムと要旨](../web/program_and_abstract_ja.md)
     * [プログラムと要旨](../web/program_and_abstract_ja.md)
