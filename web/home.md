@@ -38,6 +38,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-02-22: The member list of the high school student poster presentations subcommittee on the [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-02-21: The member list of the online subcommittee on the [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-02-15: The [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-02-05: [Important notice](#Important_notice) of this page was updated.
