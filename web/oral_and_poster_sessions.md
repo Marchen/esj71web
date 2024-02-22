@@ -60,19 +60,12 @@ multi_language: false
 ### Instructions for oral presentations
 
 * Oral presentations will be held using Zoom Meetings. When the presentation time comes, the video files uploaded in advance will be played, and the real-time session for questions and answers will follow the presentation. Please note that the deadline for uploading presentation video files in advance is currently under consideration. Please keep the file size within 500MB. Only MP4 file format is supported.
-
 * Uploaded presentation videos will be made available on the conference platform (ONLINE CONF) on the day of presentation. The videos will remain available until three weeks after the end of the conference. Please select whether your presentation remains available after the conference at the time of application.
-
 * The video playback and screen sharing will be handled by a professional company. The sessions of questions and answers will be conducted verbally via Zoom.
-
 * If you are unable to upload your video files of presentation by the due date, please give your presentation in real-time via Zoom. If you are a real-time speaker and wish to receive on-demand streaming, please either 1) record your own real-time presentation or 2) create a video of your presentation and upload it to ONLINE CONF. Please edit the video so that the session for questions and answers is not included.
-
 * You can also use the comment function provided on each presentation page of the platform to ask questions. Please use the comment function on the page of each presentation at any time.
-
 * ESJ71 will be held online, thus, before the first meeting day, please do a thorough test on how to use Zoom, and test the stability of the internet connection you will use. There will be no rehearsal for the Zoom presentation. Please note that we cannot provide refunds or support for issues due to your network environment, devices, or files.
-
 * The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. For real-time presentation, the bell will ring once, twice, and three times at 10 minutes, 12 minutes, and 14 minutes and 30 seconds, respectively. For video presentation, the bell will ring three times at 2 minutes and 30 seconds after the start of Q&A.
-
 * In oral sessions, including those held in English, the presenter of the preceding talk will serve as the chairperson of the next talk. The staff will serve as the chairperson of the first talk.
 
 ### English Presentation Award
