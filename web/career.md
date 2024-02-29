@@ -3,6 +3,7 @@ url: https://esj-meeting.net/career/
 menu: プログラムと要旨 > キャリア支援
 toc: false
 multi_language: false
+remarks: リンクが同じページで開かれると不便なので、データをWordPressにペースト後、新規ウィンドウでリンクを開くように手動で設定。
 ---
 
 # キャリア支援
