@@ -37,6 +37,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-02-29: The [schedule of the core time for the on-site poster presentation](oral_and_poster_sessions#On-site_Poster_Presentation) was published.
 * 2024-02-22: The member list of the high school student poster presentations subcommittee on the [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-02-21: The member list of the online subcommittee on the [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-02-15: The [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
