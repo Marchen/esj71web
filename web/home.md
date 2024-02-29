@@ -10,7 +10,6 @@ multi_language: true
 ## Important notice
 
 * From Feb 1st to Feb 29th we won't be able to accept registration and payment. From Mar 1st, we will accept them again on the upcoming online platform of the meeting.
-* 2023-11-14: Word limit of English abstracts increased from 200 words to 400 words. For the details, please see [Oral and poster presentation sessions](oral_and_poster_sessions) and [Session Proposal Guidelines](session_proposal_guidelines).
 * 2023-10-30: We have changed our policy of responses to changes in the format of presentations. For the details, please see the items [6.3](faq#Is_it_possible_to_switch_our_symposia_workshop_or_forum_from_on-site_format_to_fully_online_format), [6.4](faq#The_speaker_of_the_meeting_which_was_scheduled_to_participate_on-site_suddenly_asked_for_a_remote_presentation_Is_it_possible_to_change_it), and [6.5](faq#A_speaker_who_was_scheduled_to_attend_the_meeting_remotely_has_suddenly_requested_to_give_a_presentation_on-site_Is_it_possible_to_change_it) on the [FAQ page](faq).
 
 See more [update history](#Whats_new).
