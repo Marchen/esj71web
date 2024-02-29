@@ -1,6 +1,6 @@
 # メニュー構造のメモ
 
-* 日本語
+* **日本語**
   * [ホーム](../web/home_ja.md)
   * [大会案内](../web/basic_information_ja.md)
     * [大会基本情報](../web/basic_information_ja)
@@ -21,7 +21,7 @@
   * [お問い合わせ](../web/contact_ja.md)
     * [お問い合わせ](../web/contact_ja.md)
     * [よくある質問](../web/fag_ja.md)
-* English
+* **English**
   * [Home](../web/home.md)
   * [Meeting Information](../web/basic_information.md)
     * [Basic Information](../web/basic_information.md)
