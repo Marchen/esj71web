@@ -3,7 +3,6 @@ url: https://esj-meeting.net/career/
 menu: プログラムと要旨 > キャリア支援
 toc: false
 multi_language: false
-remarks: リンクが同じページで開かれると不便なので、データをWordPressにペースト後、新規ウィンドウでリンクを開くように手動で設定。
 ---
 
 # キャリア支援
@@ -17,16 +16,16 @@ ESJ71では一部のプログラム（集会）の参加者に対し，建設コ
 生態学会員の採用を希望する企業や団体等の採用情報をまとめて掲示します。
 ※いま現在は採用予定がない企業・団体も含まれますので，採用スケジュールは別途，各企業・団体にご確認ください。
 
-| 企業・団体名                                                                    | 掲載内容         |
-| ------------------------------------------------------------------------------- | ---------------- |
-| [日本エヌ・ユー・エス株式会社](https://recruit-janus.jp)                        | 採用情報         |
-| [株式会社ZACCO](https://zacco.jp/recruit/)                                      | 企業・団体の紹介 |
-| [株式会社野生動物保護管理事務所](https://wmo.co.jp/recruit_page)                | 採用情報         |
-| [株式会社構研エンジニアリング](https://www.koken-e.co.jp/recruit/)              | 採用情報         |
-| [株式会社バイオーム](https://www.wantedly.com/companies/company_9487580)        | 採用情報         |
-| [株式会社 生態計画研究所](https://www.eco-plan.jp/recruit.html)                 | 企業・団体の紹介 |
-| [サンリット・シードリングス株式会社](https://www.sunlitseedlings.com/general-8) | 採用情報         |
-| [中央復建コンサルタンツ株式会社](https://www.cfk.co.jp/recruit)                 | 採用情報         |
-| [認定NPO法人 生態工房](http://www.eco-works.gr.jp/)                             | 企業・団体の紹介 |
-| [アルスコンサルタンツ株式会社](https://www.ars-c.co.jp/recruit/)                | 採用情報         |
-| [株式会社 長大](https://www.chodai.co.jp/recruit/)                              | 採用情報         |
+| 企業・団体名                                                                                               | 掲載内容         |
+| ---------------------------------------------------------------------------------------------------------- | ---------------- |
+| <a href="https://recruit-janus.jp" target="_blank">日本エヌ・ユー・エス株式会社</a>                        | 採用情報         |
+| <a href="https://zacco.jp/recruit/" target="_blank">株式会社ZACCO</a>                                      | 企業・団体の紹介 |
+| <a href="https://wmo.co.jp/recruit_page" target="_blank">株式会社野生動物保護管理事務所</a>                | 採用情報         |
+| <a href="https://www.koken-e.co.jp/recruit/" target="_blank">株式会社構研エンジニアリング</a>              | 採用情報         |
+| <a href="https://www.wantedly.com/companies/company_9487580" target="_blank">株式会社バイオーム</a>        | 採用情報         |
+| <a href="https://www.eco-plan.jp/recruit.html" target="_blank">株式会社 生態計画研究所</a>                 | 企業・団体の紹介 |
+| <a href="https://www.sunlitseedlings.com/general-8" target="_blank">サンリット・シードリングス株式会社</a> | 採用情報         |
+| <a href="https://www.cfk.co.jp/recruit" target="_blank">中央復建コンサルタンツ株式会社</a>                 | 採用情報         |
+| <a href="http://www.eco-works.gr.jp/" target="_blank">認定NPO法人 生態工房</a>                             | 企業・団体の紹介 |
+| <a href="https://www.ars-c.co.jp/recruit/" target="_blank">アルスコンサルタンツ株式会社</a>                | 採用情報         |
+| <a href="https://www.chodai.co.jp/recruit/" target="_blank">株式会社 長大</a>                              | 採用情報         |
