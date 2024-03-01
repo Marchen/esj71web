@@ -14,6 +14,7 @@ ESJ71用のMarkdownの書き方は[説明書](docs/esj_web_markdown.md)を見て
 
 ## 更新履歴（説明書とかだけ）
 
+* 2024-03-01: [説明書](docs/esj_web_markdown.md)に新規タブでページを開くリンクの書き方を追記しました。
 * 2023-09-10: [説明書](docs/esj_web_markdown.md)の目次の説明を更新しました。
 * 2023-07-10: [説明書](docs/esj_web_markdown.md)のリストの書き方を更新しました。
 * 2023-07-10: [テンプレート](https://raw.githubusercontent.com/Marchen/esj71web/main/docs/esj_web_template.md)と[説明書](docs/esj_web_markdown.md)に多言語対応の必要性を表すフィールド(`multi_language`)を追加しました。

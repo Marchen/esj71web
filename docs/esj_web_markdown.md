@@ -129,6 +129,17 @@ Visual Studio Codeでは編集中に画面上部のPreviewボタン![ボタン�
 ＜例＞
 [ESJ Meeting](https://esj-meeting.net/home_ja/)
 
+外部サイトなど、新しいタブ・ウィンドウでリンクを開きたい場合はHTMLで記述してください。
+（`rel="noreferrer noopener"`はWordPressが自動的に追加してくれます）
+
+```markdown
+<a href="リンク先のURL" target="_blank">リンク文字列</a>
+<a href="https://esj71.gakkai.online" target="_blank">大会プラットフォーム</a>
+```
+
+＜例＞
+<a href="https://esj71.gakkai.online" target="_blank">大会プラットフォーム</a>
+
 ### 表
 
 ```markdown
