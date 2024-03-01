@@ -9,7 +9,8 @@ multi_language: true
 
 ## Important notice
 
-* From Feb 1st to Feb 29th we won't be able to accept registration and payment. From Mar 1st, we will accept them again on the upcoming online platform of the meeting.
+* 2024-03-01: The <a href="https://esj71.gakkai.online" target="_blank">Online Platform</a> of the meeting is now open. Now we also accept registration and payment on the platform.
+* ~~2024-02-05: From Feb 1st to Feb 29th we won't be able to accept registration and payment. From Mar 1st, we will accept them again on the upcoming online platform of the meeting.~~
 * 2023-10-30: We have changed our policy of responses to changes in the format of presentations. For the details, please see the items [6.3](faq#Is_it_possible_to_switch_our_symposia_workshop_or_forum_from_on-site_format_to_fully_online_format), [6.4](faq#The_speaker_of_the_meeting_which_was_scheduled_to_participate_on-site_suddenly_asked_for_a_remote_presentation_Is_it_possible_to_change_it), and [6.5](faq#A_speaker_who_was_scheduled_to_attend_the_meeting_remotely_has_suddenly_requested_to_give_a_presentation_on-site_Is_it_possible_to_change_it) on the [FAQ page](faq).
 
 See more [update history](#Whats_new).
@@ -37,6 +38,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-03-01: Updated [Important notice](#Important_notice) on this page.
 * 2024-02-29: Information about [General Meeting and Lectures by Award Recipients](general_meeting) was published.
 * 2024-02-29: [Access to the venue](access) was published.
 * 2024-02-29: The [schedule of the core time for the on-site poster presentation](oral_and_poster_sessions#On-site_Poster_Presentation) was published.
