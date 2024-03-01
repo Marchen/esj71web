@@ -38,6 +38,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-03-01: [Venue](venue) was published.
 * 2024-03-01: Updated [Important notice](#Important_notice) on this page.
 * 2024-02-29: Information about [General Meeting and Lectures by Award Recipients](general_meeting) was published.
 * 2024-02-29: [Access to the venue](access) was published.
