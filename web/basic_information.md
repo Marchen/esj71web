@@ -13,6 +13,8 @@ The 71th Annual Meeting of the Ecological Society of Japan (ESJ71)
 Dates: March 16–21, 2024
 Venues: Online / Yokohama National University
 
+-------------------------------------------------------------------------------
+
 ## SCHEDULE
 
 |                                                        | 16 Mar<br>(Sat) | 17 Mar<br>(Sun) | 18 Mar<br>(Mon) | 19 Mar<br>(Tue) | 20 Mar<br>(Wed) | 21 Mar<br>(Thu) |
@@ -32,6 +34,8 @@ Venues: Online / Yokohama National University
 
 ※1 Poster presenters (including high school students posters) may, if they wish, display their posters at the on-site venue on March 19 and 20.
 
+-------------------------------------------------------------------------------
+
 ## FORMAT OF THE MEETING
 
 * The meeting will be held "online" (March 16 and 17) and "hybrid" (onsite + online, March 18–21).
@@ -40,6 +44,8 @@ Venues: Online / Yokohama National University
 * Poster presentations on March 16 and 17 will be conducted using poster files uploaded to the platform (ONLINE CONF), which participants will be free to browse during ESJ71. During core time, presenters can use video conferencing to explain their poster and answer questions to the audience.
 * Presentations on March 18-21 will be given at the venue (Yokohama National University) and simultaneously streamed in real time via zoom. Those who have made online poster presentations (including high school students' posters) may also display their posters at the venue on March 19 and 20, if they wish.
 * All talks, with the exception of “Oral presentations”, will be recorded and made accessible to participants on the platform from one or two business days after the presentation to three weeks after the ESJ71 meeting (on-demand streaming). The availability of the recordings will be confirmed to the presenter at registration.
+
+-------------------------------------------------------------------------------
 
 ## FACILITATING INTERACTION AMONG PARTICIPANTS
 
@@ -50,6 +56,8 @@ We will be organizing online exchange meetings using Spatial Chat. After each se
 ### Online banquet
 
 The banquet of ESJ71 will be held in an online format using SpatialChat. It will be open to all ESJ71 participants (except high school students and the audience members using a workshop ticket). The banquet will be free of charge. No registration is required. Details will be announced on the official website and the platform of ESJ71.
+
+-------------------------------------------------------------------------------
 
 ## DEADLINES AND FEES
 
@@ -91,11 +99,15 @@ For detailed information on how to register, please see the [Registration Guidel
 * Please note that we will not respond to any inquiries between 5:00 p.m. (JST) of each due date and 10:00 a.m. (JST) of the next day. Your early confirmation of the registration procedure would be appreciated.
 * No additions or corrections will be accepted after the due dates (we will not make corrections using errata).
 
+-------------------------------------------------------------------------------
+
 ## PROMOTING DIVERSITY
 
 ESJ71 respects diversity of participants. We expect ambitious proposals from researchers of diverse positions, genders, and nationalities. Also, organizers of symposia and workshops are requested to consider the speakers' diversity when choosing the speakers.
 
 Based on the "Act for Eliminating Discrimination Against People with Disabilities", consideration will be given to participants requiring assistance. Please contact us from the inquiry page on the ESJ71 official website. If you would like to give a presentation, please contact us by 31st October 2023, or as soon as possible.
+
+-------------------------------------------------------------------------------
 
 ## OTHER INFORMATION
 
@@ -132,6 +144,8 @@ If an applicant does not pay the registration fee by the deadline, their present
 
 If a student/postdoc speaker wishes, they can display a Career Explorer (CE) image indicating that they are looking for a job at the time of the oral or poster presentations. Please download the image from [The Japan Society of Applied Physics website](https://www.jsap.or.jp/jsap-meeting/career-explorer) and display it near the title page of the oral presentations or the title of the posters. Permission to use CE images has been obtained.
 
+-------------------------------------------------------------------------------
+
 ## ANNUAL MEETING PLANNING COMMITTEE
 
 |                                                          |                                                                                                                                                                                                                                                                            |
@@ -145,6 +159,8 @@ If a student/postdoc speaker wishes, they can display a Career Explorer (CE) ima
 | Presentation composition subcommittee                    | Shin-ichiro Matsuzaki, Hajime Tomimatsu, Toshifumi Minamoto, Hideki Mori                                                                                                                                                                                                   |
 | English session subcommittee                             | Mayuko Jomura, Kayoko Fukumori, Nobuaki Mizumoto, Makoto Kobayashi, Komei Kadowaki, Kaori Shiojiri, Hiroki Hata<br>Observer: Shinichi Tatsumi, Yuta Morii, Ryosuke Iritani                                                                                                 |
 | Online subcommittee                                      | Keiichi Fukaya, Masaru Sakai, Shunsuke Matsuoka, Hirotaka Komine, Tetsuya Matsumoto, Dai Koide, Naoaki Shimada, Makoto Kobayashi, Adachi Minako, Makoto Tokuda, Hisashi Sato, Shin-ichiro Matsuzaki, Hajime Tomimatsu<br>Observer: Masaki Hoso                             |
+
+-------------------------------------------------------------------------------
 
 ## ANNUAL MEETING ORGANIZING COMMITTEE
 

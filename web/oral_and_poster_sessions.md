@@ -55,6 +55,8 @@ multi_language: false
 
 * All online lectures, oral or posters, are publicly transmitted under copyright laws, so permissions are required. Please be careful not to cause copyright infringements and avoid any defamation in the presentation contents, on the slides shared on-screen, or on the PDF poster you submit. When quoting published work, cite the source appropriately. If the content of the writing (presentation slide or PDF poster) infringes the copyright of a third party or causes damage to a third party, the presenter will take its responsibility.
 
+-------------------------------------------------------------------------------
+
 ## Oral presentations
 
 ### Instructions for oral presentations
@@ -83,6 +85,8 @@ The previous EPA eligibility will also be followed in ESJ71. Namely, eligibility
 #### Judging criteria
 
 In each category, the winners are selected based on scoring by the judges. Details will be announced on the official ESJ71 website. Participants will be able to apply for the EPA through our online registration system. The system is expected to open around the early of October. Please visit our official ESJ71 website for the latest information. The EPA team group is looking forward to receiving your application.
+
+-------------------------------------------------------------------------------
 
 ## Poster presentations
 
