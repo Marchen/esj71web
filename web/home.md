@@ -38,6 +38,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-03-06: The deadline for the uploading presentation file was added on the [Instructions for oral presentations](oral_and_poster_sessions#Instructions_for_oral_presentations).
 * 2024-03-04: The list of the English session subcommittee on the [list of planning committee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-03-02: Information about [Childcare facilities available at Yokohama National University](childcare_facilities) was published.
 * 2024-03-01: [Venue](venue) was published.
