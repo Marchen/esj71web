@@ -11,8 +11,8 @@ multi_language: true
 
 ### 横浜国立大学（3月19日〜21日）
 
-![教育文化ホール 案内図](https://esj-meeting.net/wp-content/uploads/2024/02/venue_1_ja.jpg)
-[[教育文化ホール 案内図 PDF版](https://esj-meeting.net/wp-content/uploads/2024/02/venue_1_ja.pdf)]
+![教育文化ホール 案内図](https://esj-meeting.net/wp-content/uploads/2024/03/venue_1_ja.jpg)
+[[教育文化ホール 案内図 PDF版](https://esj-meeting.net/wp-content/uploads/2024/03/venue_1_ja.pdf)]
 
 ![都市科学部棟 案内図](https://esj-meeting.net/wp-content/uploads/2024/02/venue_2_ja.jpg)
 [[都市科学部棟 案内図 PDF版](https://esj-meeting.net/wp-content/uploads/2024/02/venue_2_ja.pdf)]
