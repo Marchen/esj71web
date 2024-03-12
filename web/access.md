@@ -34,3 +34,7 @@ For the details about the bus service, please check the [Yokohama National Unive
     * Symposium, Workshops, Forums, Poster sessions, Family lounge
 * **Economics-2 (Econ-2)（[Campus map N4-3](https://www.ynu.ac.jp/english/about/access/map/)）**
     * Public lecture
+
+## Accessibility map
+
+Please see [the accessibility map [PDF]](https://www.ynu.ac.jp/english/about/access/access/pdf/YNU_barrierfree_map.pdf) provided by Yokohama National University.

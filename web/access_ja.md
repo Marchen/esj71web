@@ -34,3 +34,7 @@ multi_language: true
     * シンポ・自由集会・フォーラム・ポスター・ファミリー休憩室
 * **経済学部講義棟2号館（[学内マップ N4-3](https://www.ynu.ac.jp/access/map_campus.html)）**
     * 公開講演会
+
+## 会場のバリアフリーマップ
+
+[横浜国立大学のページ](https://www.ynu.ac.jp/access/map_barrierfree.html)をご確認下さい。
