@@ -16,9 +16,21 @@ multi_language: false
 **参加費**：無料
 **対面会場**：当日先着順 600名
 **オンライン会場**：当日先着順 1000名
+**Zoomウェビナー形式によるオンライン配信**:
+
+* **接続先**: <a href="https://zoom.us/j/98878186754?pwd=NVVFd25pV0xWazhvcTIrT1dEeFZHQT09" target="_blank">https://zoom.us/j/98878186754?pwd=NVVFd25pV0xWazhvcTIrT1dEeFZHQT09</a>
+* **ミーティングID**: 988 7818 6754
+* **パスワード**: 110312
+
+## ポスター
 
 ![公開講演会ポスター](https://esj-meeting.net/wp-content/uploads/2024/01/public_lecture.jpg)
 [ポスター(PDF)をダウンロード](https://esj-meeting.net/wp-content/uploads/2024/01/public_lecture.pdf)
+
+## 会場（経済学部講義棟2号館）
+
+![キャンパスマップ](https://esj-meeting.net/wp-content/uploads/2024/02/campus_map_ja.jpg)
+会場へのアクセスは[アクセス](access_ja)や横浜国立大学の[キャンパスマップ (N4-3)](https://www.ynu.ac.jp/access/map_campus.html)も参考にして下さい。
 
 ## プログラム
 
