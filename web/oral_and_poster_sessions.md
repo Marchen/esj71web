@@ -118,11 +118,12 @@ Poster presentations will be conducted using poster files uploaded to the platfo
 
 ### On-site Poster Presentation
 
-* At this conference, among the online poster participants, those selected by lottery will have the right to display physical posters on-site for two days (19th and 20th March 2024). During this poster display period, the core time will, in principle, be the 19th for odd-numbered posters and the 20th for even-numbered posters. However, if it is really difficult for the presenter to be present during the designated core time due to their schedule (for example, if they can only display on one of the days), it is permissible to take core time on another day within the display period. Voluntarily taking core time on both days is also acceptable.
+* At this conference, among the online poster participants, those selected by lottery will have the right to display physical posters on-site for two days (19th and 20th March 2024). During this poster display period, the core time will, in principle, be the 19th (16:00–18:00) for odd-numbered posters and the 20th (15:30–17:30) for even-numbered posters. However, if it is really difficult for the presenter to be present during the designated core time due to their schedule (for example, if they can only display on one of the days), it is permissible to take core time on another day within the display period. Voluntarily taking core time on both days is also acceptable.
 * The venue opens at 9:00 AM on both days. Upon arrival, please complete registration and then proceed to put up your poster. At the very least, ensure that your poster is displayed before the core time on the day you are available to present.
 * Posters will be displayed on A0 size vertical boards. Within this size range, presenters are free to use the space as they wish, whether it be displaying a single poster or displaying a split one. However, please ensure that your display does not exceed the size limit and encroach on the neighboring board, so as not to interfere with other presenters.
 * Please bring your own thumbtacks for mounting the poster. Be aware that thumbtacks tend to run out of stock in stores around the venue, so please take note of this.
 * This conference will be one of the first in a long time to feature on-site poster presentations. As we anticipate congestion on the day of the event, we ask that you take appropriate measures for infectious disease prevention at your own responsibility.
+* **Please remove your poster by 17:45 on the 20th. Posters which have not been removed will be collected and stored at the conference headquarters (Urban Sciences room 102) so please come and take them. Note that posters not picked by 12:00 on the 21st will be disposed.**
 
 ### Poster Award
 
