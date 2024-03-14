@@ -38,6 +38,7 @@ Upcoming information will be shown on this web site.
 
 ## What's new
 
+* 2024-03-13: The list of the [presentation composition subcommittee](basic_information#ANNUAL_MEETING_PLANNING_COMMITTEE) was updated.
 * 2024-03-13: Opening time of [On-site Poster Sessions](oral_and_poster_sessions#On-site_Poster_Presentation) has been changed.
 * 2024-03-12: The time of the core time and notice about removal of posters were added on [On-site Poster Presentation](oral_and_poster_sessions#On-site_Poster_Presentation).
 * 2024-03-12: Information about the [accessibility map](access#Accessibility_map) was added to [Access to the venue](access) page.
