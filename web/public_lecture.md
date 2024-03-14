@@ -30,7 +30,7 @@ multi_language: false
 ## 会場（経済学部講義棟2号館）
 
 ![キャンパスマップ](https://esj-meeting.net/wp-content/uploads/2024/02/campus_map_ja.jpg)
-会場へのアクセスは[アクセス](access_ja)や横浜国立大学の[キャンパスマップ (N4-3)](https://www.ynu.ac.jp/access/map_campus.html)も参考にして下さい。
+会場へのアクセスは[会場案内](venue_ja)や横浜国立大学の[キャンパスマップ (N4-3)](https://www.ynu.ac.jp/access/map_campus.html)も参考にして下さい。
 
 ## プログラム
 
